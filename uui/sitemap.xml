@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3020/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3021/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3020</loc>
+    <loc>http://localhost:3021</loc>
   </url>
   <url>
-    <loc>http://localhost:3020/osnovno-preiskovanje</loc>
+    <loc>http://localhost:3021/osnovno-preiskovanje</loc>
   </url>
   <url>
-    <loc>http://localhost:3020/preiskovanje-v-igrah</loc>
+    <loc>http://localhost:3021/preiskovanje-v-igrah</loc>
   </url>
 </urlset>
