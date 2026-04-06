@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3038/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3040/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3038</loc>
+    <loc>http://localhost:3040</loc>
   </url>
   <url>
-    <loc>http://localhost:3038/osnovno-preiskovanje</loc>
+    <loc>http://localhost:3040/osnovno-preiskovanje</loc>
   </url>
   <url>
-    <loc>http://localhost:3038/preiskovanje-v-igrah</loc>
+    <loc>http://localhost:3040/preiskovanje-v-igrah</loc>
   </url>
   <url>
-    <loc>http://localhost:3038/zadoscanje-omejitvam</loc>
+    <loc>http://localhost:3040/zadoscanje-omejitvam</loc>
   </url>
   <url>
-    <loc>http://localhost:3038/propozicijska-logika</loc>
+    <loc>http://localhost:3040/propozicijska-logika</loc>
   </url>
   <url>
-    <loc>http://localhost:3038/logika-prvega-reda</loc>
+    <loc>http://localhost:3040/logika-prvega-reda</loc>
   </url>
   <url>
-    <loc>http://localhost:3038/sklepanje-v-negotovosti</loc>
+    <loc>http://localhost:3040/sklepanje-v-negotovosti</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3040/strojno-ucenje-uvod</loc>
   </url>
 </urlset>
