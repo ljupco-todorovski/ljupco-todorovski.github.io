@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3073/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3075/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3073</loc>
+    <loc>http://localhost:3075</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/osnovno-preiskovanje</loc>
+    <loc>http://localhost:3075/osnovno-preiskovanje</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/preiskovanje-v-igrah</loc>
+    <loc>http://localhost:3075/preiskovanje-v-igrah</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/zadoscanje-omejitvam</loc>
+    <loc>http://localhost:3075/zadoscanje-omejitvam</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/propozicijska-logika</loc>
+    <loc>http://localhost:3075/propozicijska-logika</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/logika-prvega-reda</loc>
+    <loc>http://localhost:3075/logika-prvega-reda</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/sklepanje-v-negotovosti</loc>
+    <loc>http://localhost:3075/sklepanje-v-negotovosti</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/strojno-ucenje-uvod</loc>
+    <loc>http://localhost:3075/strojno-ucenje-uvod</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/vrednotenje-in-izbira-napovednih-modelov</loc>
+    <loc>http://localhost:3075/vrednotenje-in-izbira-napovednih-modelov</loc>
   </url>
   <url>
-    <loc>http://localhost:3073/odlocitvena-drevesa</loc>
+    <loc>http://localhost:3075/odlocitvena-drevesa</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3075/linearni-modeli</loc>
   </url>
 </urlset>
