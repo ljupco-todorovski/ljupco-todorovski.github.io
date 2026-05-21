@@ -2,4 +2,4 @@
 
 User-agent: *
 Allow: /
-Sitemap: http://localhost:3090/sitemap.xml
+Sitemap: http://localhost:3092/sitemap.xml
