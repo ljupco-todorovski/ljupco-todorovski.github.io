@@ -1,0 +1,908 @@
+<class 'bs4.BeautifulSoup'>
+<!DOCTYPE html>
+
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" dir="ltr" lang="sl">
+<head>
+<meta charset="utf-8"/>
+<title>Univerza v Ljubljani - Wikipedija, prosta enciklopedija</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )slwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy full","wgMonthNames":["","januar","februar","marec","april","maj","junij","julij","avgust","september","oktober","november","december"],"wgRequestId":"ef02e351-94ba-4671-a7ef-7d06d80e9ecb","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Univerza_v_Ljubljani","wgTitle":"Univerza v Ljubljani","wgCurRevisionId":6291237,"wgRevisionId":6291237,"wgArticleId":8490,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Članki, ki vsebujejo latinsko besedilo","Članki za razširitev od mesec ni naveden","Vsi članki za razširitev","Povezava na kategorijo Zbirke je v Wikipodatkih","Wikipedijini članki z identifikatorji ISNI","Wikipedijini članki z identifikatorji VIAF","Wikipedijini članki z identifikatorji CONOR.SI","Wikipedijini članki z identifikatorji GND","Wikipedijini članki z identifikatorji ICCU","Wikipedijini članki z identifikatorji J9U",
+"Wikipedijini članki z identifikatorji LCCN","Wikipedijini članki z identifikatorji NKC","Wikipedijini članki z identifikatorji FAST","Wikipedijini članki z identifikatorji SUDOC","Wikipedijini članki z identifikatorji Trove","Wikipedijini članki z identifikatorji WorldCat-VIAF","Wikipedijini članki z identifikatorji - večkratni","Izobraževalno-raziskovalne ustanove v Ljubljani","Univerze v Sloveniji","Izobraževalno-raziskovalne ustanove, ustanovljene leta 1919","Univerza v Ljubljani","Nosilci reda za izredne zasluge Republike Slovenije"],"wgPageViewLanguage":"sl","wgPageContentLanguage":"sl","wgPageContentModel":"wikitext","wgRelevantPageName":"Univerza_v_Ljubljani","wgRelevantArticleId":8490,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{
+"pageLanguageCode":"sl","pageLanguageDir":"ltr","pageVariantFallbacks":"sl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgRelatedArticlesCompat":[],"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1377","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.CommonsDirekt","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022",
+"ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","wikibase.sidebar.tracking"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link href="/w/load.php?lang=sl&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=sl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=sl&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<meta content="MediaWiki 1.44.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/sl/1/15/LogotipUL_L.gif" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1197" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/sl/1/15/LogotipUL_L.gif" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="798" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="638" property="og:image:height"/>
+<meta content="width=1120" name="viewport"/>
+<meta content="Univerza v Ljubljani - Wikipedija, prosta enciklopedija" property="og:title"/>
+<meta content="website" property="og:type"/>
+<link href="//upload.wikimedia.org" rel="preconnect"/>
+<link href="//sl.m.wikipedia.org/wiki/Univerza_v_Ljubljani" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit" rel="alternate" title="Uredi" type="application/x-wiki"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="icon"/>
+<link href="/w/rest.php/v1/search" rel="search" title="Wikipedija (sl)" type="application/opensearchdescription+xml"/>
+<link href="//sl.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://sl.wikipedia.org/wiki/Univerza_v_Ljubljani" rel="canonical"/>
+<link href="https://creativecommons.org/licenses/by-sa/4.0/deed.sl" rel="license"/>
+<link href="/w/index.php?title=Posebno:ZadnjeSpremembe&amp;feed=atom" rel="alternate" title="Atom-vir strani »Wikipedija«" type="application/atom+xml"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch">
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+</link></head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Univerza_v_Ljubljani rootpage-Univerza_v_Ljubljani skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Pojdi na vsebino</a>
+<div class="vector-header-container">
+<header class="vector-header mw-header">
+<div class="vector-header-start">
+<nav aria-label="Projekt" class="vector-main-menu-landmark">
+<div class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right" id="vector-main-menu-dropdown">
+<input aria-haspopup="true" aria-label="Glavni meni" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-main-menu-dropdown" id="vector-main-menu-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-main-menu-dropdown-checkbox" id="vector-main-menu-dropdown-label"><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+<span class="vector-dropdown-label-text">Glavni meni</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-main-menu-unpinned-container">
+<div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+<div class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned" data-feature-name="main-menu-pinned" data-pinnable-element-id="vector-main-menu" data-pinned-container-id="vector-main-menu-pinned-container" data-unpinned-container-id="vector-main-menu-unpinned-container">
+<div class="vector-pinnable-header-label">Glavni meni</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">prestavi v stransko letvico</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">skrij</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
+<div class="vector-menu-heading">
+		Navigacija
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage"><a accesskey="z" href="/wiki/Glavna_stran" title="Obiščite glavno stran [z]"><span>Glavna stran</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/Pomo%C4%8D:Uvod"><span>Naučite se urejati</span></a></li><li class="mw-list-item" id="n-Izbrani-članki"><a href="/wiki/Wikipedija:Izbrani_%C4%8Dlanki"><span>Izbrani članki</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/Posebno:Naklju%C4%8Dno" title="Naložite naključno stran [x]"><span>Naključna stran</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/Posebno:ZadnjeSpremembe" title="Seznam zadnjih sprememb Wikipedije [r]"><span>Zadnje spremembe</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-obcestvo" id="p-obcestvo">
+<div class="vector-menu-heading">
+		Skupnost
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-help"><a href="/wiki/Pomo%C4%8D:Vsebina" title="Kraj, kjer lahko prejmete pomoč"><span>Pomoč</span></a></li><li class="mw-list-item" id="n-Pod-lipo"><a href="/wiki/Wikipedija:Pod_lipo"><span>Pod lipo</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/Wikipedija:Portal_skupnosti" title="O projektu, kaj lahko storite, kje lahko kaj najdete"><span>Portal skupnosti</span></a></li><li class="mw-list-item" id="n-contact"><a href="/wiki/Wikipedija:Stik_z_nami"><span>Stik z nami</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<a class="mw-logo" href="/wiki/Glavna_stran">
+<img alt="" aria-hidden="true" class="mw-logo-icon" height="50" src="/static/images/icons/wikipedia.png" width="50"/>
+<span class="mw-logo-container skin-invert">
+<img alt="Wikipedija" class="mw-logo-wordmark" src="/static/images/mobile/copyright/wikipedia-wordmark-sl.svg" style="width: 7.4375em; height: 1.375em;"/>
+<img alt="prosta enciklopedija" class="mw-logo-tagline" height="13" src="/static/images/mobile/copyright/wikipedia-tagline-sl.svg" style="width: 7.375em; height: 0.8125em;" width="118"/>
+</span>
+</a>
+</div>
+<div class="vector-header-end">
+<div class="vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<a accesskey="f" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" href="/wiki/Posebno:Iskanje" title="Preiščite viki [f]"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+<span>Iskanje</span>
+</a>
+<div class="vector-typeahead-search-container">
+<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+<form action="/w/index.php" class="cdx-search-input cdx-search-input--has-end-button" id="searchform">
+<div class="cdx-search-input__input-wrapper" data-search-loc="header-moved" id="simpleSearch">
+<div class="cdx-text-input cdx-text-input--has-start-icon">
+<input accesskey="f" aria-label="Iskanje v Wikipediji" autocapitalize="sentences" class="cdx-text-input__input" id="searchInput" name="search" placeholder="Iskanje v Wikipediji" title="Preiščite viki [f]" type="search"/>
+<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+</div>
+<input name="title" type="hidden" value="Posebno:Iskanje"/>
+</div>
+<button class="cdx-button cdx-search-input__end-button">Išči</button>
+</form>
+</div>
+</div>
+</div>
+<nav aria-label="Osebna orodja" class="vector-user-links vector-user-links-wide">
+<div class="vector-user-links-main">
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-preferences">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-userpage">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<nav aria-label="Videz" class="vector-appearance-landmark">
+<div class="vector-dropdown" id="vector-appearance-dropdown" title="Change the appearance of the page's font size, width, and color">
+<input aria-haspopup="true" aria-label="Videz" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-appearance-dropdown" id="vector-appearance-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-appearance-dropdown-checkbox" id="vector-appearance-dropdown-label"><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+<span class="vector-dropdown-label-text">Videz</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-appearance-unpinned-container">
+</div>
+</div>
+</div>
+</nav>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-notifications">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet" id="p-vector-user-menu-overflow">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-sitesupport-2"><a class="" data-mw="interface" href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_sl.wikipedia.org&amp;uselang=sl"><span>Denarni prispevki</span></a>
+</li>
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-createaccount-2"><a class="" data-mw="interface" href="/w/index.php?title=Posebno:Registracija&amp;returnto=Univerza+v+Ljubljani" title="Predlagamo vam, da si ustvarite račun in se prijavite, vendar to ni obvezno."><span>Ustvari račun</span></a>
+</li>
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-login-2"><a accesskey="o" class="" data-mw="interface" href="/w/index.php?title=Posebno:Prijava&amp;returnto=Univerza+v+Ljubljani" title="Prijava je zaželena, vendar ni obvezna [o]"><span>Prijava</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out" id="vector-user-links-dropdown" title="Več možnosti">
+<input aria-haspopup="true" aria-label="Osebna orodja" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-user-links-dropdown" id="vector-user-links-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-user-links-dropdown-checkbox" id="vector-user-links-dropdown-label"><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+<span class="vector-dropdown-label-text">Osebna orodja</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item" id="p-personal" title="Uporabniški meni">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item" id="pt-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_sl.wikipedia.org&amp;uselang=sl"><span>Denarni prispevki</span></a></li><li class="user-links-collapsible-item mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=Posebno:Registracija&amp;returnto=Univerza+v+Ljubljani" title="Predlagamo vam, da si ustvarite račun in se prijavite, vendar to ni obvezno."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Ustvari račun</span></a></li><li class="user-links-collapsible-item mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=Posebno:Prijava&amp;returnto=Univerza+v+Ljubljani" title="Prijava je zaželena, vendar ni obvezna [o]"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Prijava</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor" id="p-user-menu-anon-editor">
+<div class="vector-menu-heading">
+		Strani za neprijavljene urejevalce <a aria-label="Več o urejanju" href="/wiki/Pomo%C4%8D:Uvod"><span>več o tem</span></a>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/Posebno:MojiPrispevki" title="Seznam urejanj s tega IP-naslova [y]"><span>Prispevki</span></a></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/Posebno:MojPogovor" title="Pogovor o urejanjih s tega IP-naslova [n]"><span>Pogovorna stran</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+</div>
+<div class="mw-page-container">
+<div class="mw-page-container-inner">
+<div class="vector-sitenotice-container">
+<div id="siteNotice"><!-- CentralNotice --></div>
+</div>
+<div class="vector-column-start">
+<div class="vector-main-menu-container">
+<div id="mw-navigation">
+<nav aria-label="Projekt" class="vector-main-menu-landmark" id="mw-panel">
+<div class="vector-pinned-container" id="vector-main-menu-pinned-container">
+</div>
+</nav>
+</div>
+</div>
+<div class="vector-sticky-pinned-container">
+<nav aria-label="Vsebina" class="mw-table-of-contents-container vector-toc-landmark" data-event-name="ui.sidebar-toc" id="mw-panel-toc">
+<div class="vector-pinned-container" id="vector-toc-pinned-container">
+<div class="vector-toc vector-pinnable-element" id="vector-toc">
+<div class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned" data-feature-name="toc-pinned" data-pinnable-element-id="vector-toc">
+<h2 class="vector-pinnable-header-label">Vsebina</h2>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">prestavi v stransko letvico</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">skrij</button>
+</div>
+<ul class="vector-toc-contents" id="mw-panel-toc-list">
+<li class="vector-toc-list-item vector-toc-level-1" id="toc-mw-content-text">
+<a class="vector-toc-link" href="#">
+<div class="vector-toc-text">Uvod</div>
+</a>
+</li>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-Zgodovina">
+<a class="vector-toc-link" href="#Zgodovina">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1</span>
+<span>Zgodovina</span>
+</div>
+</a>
+<button aria-controls="toc-Zgodovina-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+<span>Vklopi podrazdelek Zgodovina</span>
+</button>
+<ul class="vector-toc-list" id="toc-Zgodovina-sublist">
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-Zgodovina_poimenovanja">
+<a class="vector-toc-link" href="#Zgodovina_poimenovanja">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1.1</span>
+<span>Zgodovina poimenovanja</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Zgodovina_poimenovanja-sublist">
+</ul>
+</li>
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-Organiziranost">
+<a class="vector-toc-link" href="#Organiziranost">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">2</span>
+<span>Organiziranost</span>
+</div>
+</a>
+<button aria-controls="toc-Organiziranost-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+<span>Vklopi podrazdelek Organiziranost</span>
+</button>
+<ul class="vector-toc-list" id="toc-Organiziranost-sublist">
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-Članice_univerze">
+<a class="vector-toc-link" href="#Članice_univerze">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">2.1</span>
+<span>Članice univerze</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Članice_univerze-sublist">
+<li class="vector-toc-list-item vector-toc-level-3" id="toc-Trenutne_članice">
+<a class="vector-toc-link" href="#Trenutne_članice">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">2.1.1</span>
+<span>Trenutne članice</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Trenutne_članice-sublist">
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-3" id="toc-Bivše_članice">
+<a class="vector-toc-link" href="#Bivše_članice">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">2.1.2</span>
+<span>Bivše članice</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Bivše_članice-sublist">
+</ul>
+</li>
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-Druge_povezane_ustanove">
+<a class="vector-toc-link" href="#Druge_povezane_ustanove">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">2.2</span>
+<span>Druge povezane ustanove</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Druge_povezane_ustanove-sublist">
+</ul>
+</li>
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-Viri_in_opombe">
+<a class="vector-toc-link" href="#Viri_in_opombe">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">3</span>
+<span>Viri in opombe</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Viri_in_opombe-sublist">
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-Glej_tudi">
+<a class="vector-toc-link" href="#Glej_tudi">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">4</span>
+<span>Glej tudi</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Glej_tudi-sublist">
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-Zunanje_povezave">
+<a class="vector-toc-link" href="#Zunanje_povezave">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">5</span>
+<span>Zunanje povezave</span>
+</div>
+</a>
+<ul class="vector-toc-list" id="toc-Zunanje_povezave-sublist">
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="mw-content-container">
+<main class="mw-body" id="content">
+<header class="mw-body-header vector-page-titlebar">
+<nav aria-label="Vsebina" class="vector-toc-landmark">
+<div class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left" id="vector-page-titlebar-toc">
+<input aria-haspopup="true" aria-label="Vklopi kazalo vsebine" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-page-titlebar-toc" id="vector-page-titlebar-toc-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-page-titlebar-toc-checkbox" id="vector-page-titlebar-toc-label"><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+<span class="vector-dropdown-label-text">Vklopi kazalo vsebine</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-page-titlebar-toc-unpinned-container">
+</div>
+</div>
+</div>
+</nav>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Univerza v Ljubljani</span></h1>
+<div class="vector-dropdown mw-portlet mw-portlet-lang" id="p-lang-btn">
+<input aria-haspopup="true" aria-label="P9jdi na članek v drugem jeziku. Na voljo v  47 jezikih." class="vector-dropdown-checkbox mw-interlanguage-selector" data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-47" for="p-lang-btn-checkbox" id="p-lang-btn-label"><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+<span class="vector-dropdown-label-text">47 jezikov</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" data-language-autonym="العربية" data-language-local-name="arabščina" data-title="جامعة ليوبليانا" href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D9%84%D9%8A%D9%88%D8%A8%D9%84%D9%8A%D8%A7%D9%86%D8%A7" hreflang="ar" lang="ar" title="جامعة ليوبليانا – arabščina"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a class="interlanguage-link-target" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" data-title="جامعة ليوبليانا" href="https://arz.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D9%84%D9%8A%D9%88%D8%A8%D9%84%D9%8A%D8%A7%D9%86%D8%A7" hreflang="arz" lang="arz" title="جامعة ليوبليانا – Egyptian Arabic"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Azərbaycanca" data-language-local-name="azerbajdžanščina" data-title="Lyublyana Universiteti" href="https://az.wikipedia.org/wiki/Lyublyana_Universiteti" hreflang="az" lang="az" title="Lyublyana Universiteti – azerbajdžanščina"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Башҡортса" data-language-local-name="baškirščina" data-title="Любляна университеты" href="https://ba.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BB%D1%8F%D0%BD%D0%B0_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%8B" hreflang="ba" lang="ba" title="Любляна университеты – baškirščina"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Беларуская" data-language-local-name="beloruščina" data-title="Люблянскі ўніверсітэт" href="https://be.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D1%96_%D1%9E%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%82%D1%8D%D1%82" hreflang="be" lang="be" title="Люблянскі ўніверсітэт – beloruščina"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Беларуская (тарашкевіца)" data-language-local-name="Belarusian (Taraškievica orthography)" data-title="Люблянскі ўнівэрсытэт" href="https://be-tarask.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D1%96_%D1%9E%D0%BD%D1%96%D0%B2%D1%8D%D1%80%D1%81%D1%8B%D1%82%D1%8D%D1%82" hreflang="be-tarask" lang="be-tarask" title="Люблянскі ўнівэрсытэт – Belarusian (Taraškievica orthography)"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Български" data-language-local-name="bolgarščina" data-title="Люблянски университет" href="https://bg.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%B8_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" hreflang="bg" lang="bg" title="Люблянски университет – bolgarščina"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Català" data-language-local-name="katalonščina" data-title="Universitat de Ljubljana" href="https://ca.wikipedia.org/wiki/Universitat_de_Ljubljana" hreflang="ca" lang="ca" title="Universitat de Ljubljana – katalonščina"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Čeština" data-language-local-name="češčina" data-title="Univerzita v Lublani" href="https://cs.wikipedia.org/wiki/Univerzita_v_Lublani" hreflang="cs" lang="cs" title="Univerzita v Lublani – češčina"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Cymraeg" data-language-local-name="valižanščina" data-title="Prifysgol Ljubljana" href="https://cy.wikipedia.org/wiki/Prifysgol_Ljubljana" hreflang="cy" lang="cy" title="Prifysgol Ljubljana – valižanščina"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Deutsch" data-language-local-name="nemščina" data-title="Universität Ljubljana" href="https://de.wikipedia.org/wiki/Universit%C3%A4t_Ljubljana" hreflang="de" lang="de" title="Universität Ljubljana – nemščina"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" data-language-autonym="English" data-language-local-name="angleščina" data-title="University of Ljubljana" href="https://en.wikipedia.org/wiki/University_of_Ljubljana" hreflang="en" lang="en" title="University of Ljubljana – angleščina"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Esperanto" data-language-local-name="esperanto" data-title="Universitato de Ljubljano" href="https://eo.wikipedia.org/wiki/Universitato_de_Ljubljano" hreflang="eo" lang="eo" title="Universitato de Ljubljano – esperanto"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Español" data-language-local-name="španščina" data-title="Universidad de Liubliana" href="https://es.wikipedia.org/wiki/Universidad_de_Liubliana" hreflang="es" lang="es" title="Universidad de Liubliana – španščina"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Eesti" data-language-local-name="estonščina" data-title="Ljubljana ülikool" href="https://et.wikipedia.org/wiki/Ljubljana_%C3%BClikool" hreflang="et" lang="et" title="Ljubljana ülikool – estonščina"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" data-language-autonym="فارسی" data-language-local-name="perzijščina" data-title="دانشگاه لیوبلیانا" href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%84%DB%8C%D9%88%D8%A8%D9%84%DB%8C%D8%A7%D9%86%D8%A7" hreflang="fa" lang="fa" title="دانشگاه لیوبلیانا – perzijščina"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Suomi" data-language-local-name="finščina" data-title="Ljubljanan yliopisto" href="https://fi.wikipedia.org/wiki/Ljubljanan_yliopisto" hreflang="fi" lang="fi" title="Ljubljanan yliopisto – finščina"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Français" data-language-local-name="francoščina" data-title="Université de Ljubljana" href="https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Ljubljana" hreflang="fr" lang="fr" title="Université de Ljubljana – francoščina"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" data-language-autonym="עברית" data-language-local-name="hebrejščina" data-title="אוניברסיטת ליובליאנה" href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%9C%D7%99%D7%95%D7%91%D7%9C%D7%99%D7%90%D7%A0%D7%94" hreflang="he" lang="he" title="אוניברסיטת ליובליאנה – hebrejščina"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Hrvatski" data-language-local-name="hrvaščina" data-title="Sveučilište u Ljubljani" href="https://hr.wikipedia.org/wiki/Sveu%C4%8Dili%C5%A1te_u_Ljubljani" hreflang="hr" lang="hr" title="Sveučilište u Ljubljani – hrvaščina"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Հայերեն" data-language-local-name="armenščina" data-title="Լյուբլյանայի համալսարան" href="https://hy.wikipedia.org/wiki/%D4%BC%D5%B5%D5%B8%D6%82%D5%A2%D5%AC%D5%B5%D5%A1%D5%B6%D5%A1%D5%B5%D5%AB_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%BD%D5%A1%D6%80%D5%A1%D5%B6" hreflang="hy" lang="hy" title="Լյուբլյանայի համալսարան – armenščina"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hyw mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Արեւմտահայերէն" data-language-local-name="Western Armenian" data-title="Լիւպլեանայի Համալսարան" href="https://hyw.wikipedia.org/wiki/%D4%BC%D5%AB%D6%82%D5%BA%D5%AC%D5%A5%D5%A1%D5%B6%D5%A1%D5%B5%D5%AB_%D5%80%D5%A1%D5%B4%D5%A1%D5%AC%D5%BD%D5%A1%D6%80%D5%A1%D5%B6" hreflang="hyw" lang="hyw" title="Լիւպլեանայի Համալսարան – Western Armenian"><span>Արեւմտահայերէն</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Italiano" data-language-local-name="italijanščina" data-title="Università di Lubiana" href="https://it.wikipedia.org/wiki/Universit%C3%A0_di_Lubiana" hreflang="it" lang="it" title="Università di Lubiana – italijanščina"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" data-language-autonym="日本語" data-language-local-name="japonščina" data-title="リュブリャナ大学" href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%83%96%E3%83%AA%E3%83%A3%E3%83%8A%E5%A4%A7%E5%AD%A6" hreflang="ja" lang="ja" title="リュブリャナ大学 – japonščina"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" data-language-autonym="한국어" data-language-local-name="korejščina" data-title="류블랴나 대학교" href="https://ko.wikipedia.org/wiki/%EB%A5%98%EB%B8%94%EB%9E%B4%EB%82%98_%EB%8C%80%ED%95%99%EA%B5%90" hreflang="ko" lang="ko" title="류블랴나 대학교 – korejščina"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Latina" data-language-local-name="latinščina" data-title="Universitas Labacensis" href="https://la.wikipedia.org/wiki/Universitas_Labacensis" hreflang="la" lang="la" title="Universitas Labacensis – latinščina"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Latviešu" data-language-local-name="latvijščina" data-title="Ļubļanas Universitāte" href="https://lv.wikipedia.org/wiki/%C4%BBub%C4%BCanas_Universit%C4%81te" hreflang="lv" lang="lv" title="Ļubļanas Universitāte – latvijščina"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Македонски" data-language-local-name="makedonščina" data-title="Универзитет во Љубљана" href="https://mk.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D0%B7%D0%B8%D1%82%D0%B5%D1%82_%D0%B2%D0%BE_%D0%89%D1%83%D0%B1%D1%99%D0%B0%D0%BD%D0%B0" hreflang="mk" lang="mk" title="Универзитет во Љубљана – makedonščina"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Nederlands" data-language-local-name="nizozemščina" data-title="Universiteit van Ljubljana" href="https://nl.wikipedia.org/wiki/Universiteit_van_Ljubljana" hreflang="nl" lang="nl" title="Universiteit van Ljubljana – nizozemščina"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Occitan" data-language-local-name="okcitanščina" data-title="Universitat de Ljubljana" href="https://oc.wikipedia.org/wiki/Universitat_de_Ljubljana" hreflang="oc" lang="oc" title="Universitat de Ljubljana – okcitanščina"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Polski" data-language-local-name="poljščina" data-title="Uniwersytet Lublański" href="https://pl.wikipedia.org/wiki/Uniwersytet_Lubla%C5%84ski" hreflang="pl" lang="pl" title="Uniwersytet Lublański – poljščina"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Português" data-language-local-name="portugalščina" data-title="Universidade de Ljubljana" href="https://pt.wikipedia.org/wiki/Universidade_de_Ljubljana" hreflang="pt" lang="pt" title="Universidade de Ljubljana – portugalščina"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Română" data-language-local-name="romunščina" data-title="Universitatea din Ljubljana" href="https://ro.wikipedia.org/wiki/Universitatea_din_Ljubljana" hreflang="ro" lang="ro" title="Universitatea din Ljubljana – romunščina"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Русский" data-language-local-name="ruščina" data-title="Люблянский университет" href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" hreflang="ru" lang="ru" title="Люблянский университет – ruščina"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="srbohrvaščina" data-title="Univerzitet u Ljubljani" href="https://sh.wikipedia.org/wiki/Univerzitet_u_Ljubljani" hreflang="sh" lang="sh" title="Univerzitet u Ljubljani – srbohrvaščina"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Simple English" data-language-local-name="Simple English" data-title="University of Ljubljana" href="https://simple.wikipedia.org/wiki/University_of_Ljubljana" hreflang="en-simple" lang="en-simple" title="University of Ljubljana – Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Shqip" data-language-local-name="albanščina" data-title="Universiteti i Lublanës" href="https://sq.wikipedia.org/wiki/Universiteti_i_Lublan%C3%ABs" hreflang="sq" lang="sq" title="Universiteti i Lublanës – albanščina"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Српски / srpski" data-language-local-name="srbščina" data-title="Универзитет у Љубљани" href="https://sr.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D0%B7%D0%B8%D1%82%D0%B5%D1%82_%D1%83_%D0%89%D1%83%D0%B1%D1%99%D0%B0%D0%BD%D0%B8" hreflang="sr" lang="sr" title="Универзитет у Љубљани – srbščina"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Svenska" data-language-local-name="švedščina" data-title="Ljubljanas universitet" href="https://sv.wikipedia.org/wiki/Ljubljanas_universitet" hreflang="sv" lang="sv" title="Ljubljanas universitet – švedščina"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Tagalog" data-language-local-name="tagalogščina" data-title="Unibersidad ng Liubliana" href="https://tl.wikipedia.org/wiki/Unibersidad_ng_Liubliana" hreflang="tl" lang="tl" title="Unibersidad ng Liubliana – tagalogščina"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Türkçe" data-language-local-name="turščina" data-title="Ljubljana Üniversitesi" href="https://tr.wikipedia.org/wiki/Ljubljana_%C3%9Cniversitesi" hreflang="tr" lang="tr" title="Ljubljana Üniversitesi – turščina"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Українська" data-language-local-name="ukrajinščina" data-title="Люблянський університет" href="https://uk.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BB%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" hreflang="uk" lang="uk" title="Люблянський університет – ukrajinščina"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="uzbeščina" data-title="Lyublyana universiteti" href="https://uz.wikipedia.org/wiki/Lyublyana_universiteti" hreflang="uz" lang="uz" title="Lyublyana universiteti – uzbeščina"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Tiếng Việt" data-language-local-name="vietnamščina" data-title="Đại học Ljubljana" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ljubljana" hreflang="vi" lang="vi" title="Đại học Ljubljana – vietnamščina"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a class="interlanguage-link-target" data-language-autonym="吴语" data-language-local-name="wu-kitajščina" data-title="卢布尔雅那大学" href="https://wuu.wikipedia.org/wiki/%E5%8D%A2%E5%B8%83%E5%B0%94%E9%9B%85%E9%82%A3%E5%A4%A7%E5%AD%A6" hreflang="wuu" lang="wuu" title="卢布尔雅那大学 – wu-kitajščina"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" data-language-autonym="中文" data-language-local-name="kitajščina" data-title="卢布尔雅那大学" href="https://zh.wikipedia.org/wiki/%E5%8D%A2%E5%B8%83%E5%B0%94%E9%9B%85%E9%82%A3%E5%A4%A7%E5%AD%A6" hreflang="zh" lang="zh" title="卢布尔雅那大学 – kitajščina"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" data-language-autonym="粵語" data-language-local-name="kantonščina" data-title="盧布爾雅那大學" href="https://zh-yue.wikipedia.org/wiki/%E7%9B%A7%E5%B8%83%E7%88%BE%E9%9B%85%E9%82%A3%E5%A4%A7%E5%AD%B8" hreflang="yue" lang="yue" title="盧布爾雅那大學 – kantonščina"><span>粵語</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1377#sitelinks-wikipedia" title="Uredi medjezikovne povezave">Uredi povezave</a></span></div>
+</div>
+</div>
+</div>
+</header>
+<div class="vector-page-toolbar">
+<div class="vector-page-toolbar-container">
+<div id="left-navigation">
+<nav aria-label="Imenski prostori">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages" id="p-associated-pages">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Univerza_v_Ljubljani" title="Ogled vsebinske strani [c]"><span>Stran</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/Pogovor:Univerza_v_Ljubljani" rel="discussion" title="Pogovor o vsebinski strani [t]"><span>Pogovor</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-dropdown emptyPortlet" id="vector-variants-dropdown">
+<input aria-haspopup="true" aria-label="Spremeni različico jezika" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-variants-dropdown" id="vector-variants-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="vector-variants-dropdown-checkbox" id="vector-variants-dropdown-label"><span class="vector-dropdown-label-text">slovenščina</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="vector-collapsible" id="right-navigation">
+<nav aria-label="Pogledi">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views" id="p-views">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-view"><a href="/wiki/Univerza_v_Ljubljani"><span>Preberi</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit" title="Uredite to stran [v]"><span>Uredi stran</span></a></li><li class="collapsible vector-tab-noicon mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit" title="Uredi izvorno kodo te strani [e]"><span>Uredi kodo</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=history" title="Prejšnje redakcije te strani [h]"><span>Zgodovina</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Orodja strani" class="vector-page-tools-landmark">
+<div class="vector-dropdown vector-page-tools-dropdown" id="vector-page-tools-dropdown">
+<input aria-haspopup="true" aria-label="Orodja" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-page-tools-dropdown" id="vector-page-tools-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="vector-page-tools-dropdown-checkbox" id="vector-page-tools-dropdown-label"><span class="vector-dropdown-label-text">Orodja</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-page-tools-unpinned-container">
+<div class="vector-page-tools vector-pinnable-element" id="vector-page-tools">
+<div class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned" data-feature-name="page-tools-pinned" data-pinnable-element-id="vector-page-tools" data-pinned-container-id="vector-page-tools-pinned-container" data-unpinned-container-id="vector-page-tools-unpinned-container">
+<div class="vector-pinnable-header-label">Orodja</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">prestavi v stransko letvico</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">skrij</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items" id="p-cactions" title="Več možnosti">
+<div class="vector-menu-heading">
+		Dejanja
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-more-collapsible-item mw-list-item" id="ca-more-view"><a href="/wiki/Univerza_v_Ljubljani"><span>Preberi</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-ve-edit"><a accesskey="v" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit" title="Uredite to stran [v]"><span>Uredi stran</span></a></li><li class="collapsible vector-more-collapsible-item mw-list-item" id="ca-more-edit"><a accesskey="e" href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit" title="Uredi izvorno kodo te strani [e]"><span>Uredi kodo</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-history"><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=history"><span>Zgodovina</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-tb" id="p-tb">
+<div class="vector-menu-heading">
+		Splošno
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/Posebno:KajSePovezujeSem/Univerza_v_Ljubljani" title="Seznam vseh strani, ki se povezujejo sem [j]"><span>Kaj se povezuje sem</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Posebno:RecentChangesLinked/Univerza_v_Ljubljani" rel="nofollow" title="Zadnje spremembe na straneh, s katerimi se povezuje ta stran [k]"><span>Povezane spremembe</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/Posebno:PosebneStrani" title="Seznam vseh posebnih strani [q]"><span>Posebne strani</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;oldid=6291237" title="Trajna povezava na to redakcijo strani"><span>Trajna povezava</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=info" title="Več informacij o tej strani"><span>Podatki o strani</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=Posebno:Navedi&amp;page=Univerza_v_Ljubljani&amp;id=6291237&amp;wpFormIdentifier=titleform" title="Informacije o tem, kako navajati to stran"><span>Navedba članka</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=Posebno:UrlShortener&amp;url=https%3A%2F%2Fsl.wikipedia.org%2Fwiki%2FUniverza_v_Ljubljani"><span>Pridobi skrajšani URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=Posebno:QrCode&amp;url=https%3A%2F%2Fsl.wikipedia.org%2Fwiki%2FUniverza_v_Ljubljani"><span>Prenesi kodo QR</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
+<div class="vector-menu-heading">
+		Tiskanje/izvoz
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-create_a_book"><a href="/w/index.php?title=Posebno:Book&amp;bookcmd=book_creator&amp;referer=Univerza+v+Ljubljani"><span>Ustvari e-knjigo</span></a></li><li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=Posebno:DownloadAsPdf&amp;page=Univerza_v_Ljubljani&amp;action=show-download-screen"><span>Prenesi kot PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Univerza_v_Ljubljani&amp;printable=yes" title="Različica te strani za tisk [p]"><span>Različica za tisk</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects" id="p-wikibase-otherprojects">
+<div class="vector-menu-heading">
+		V drugih projektih
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:University_of_Ljubljana" hreflang="en"><span>Wikimedijina zbirka</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1377" title="Povezava na ustrezni predmet v podatkovni shrambi [g]"><span>Predmet v Wikipodatkih</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="vector-column-end">
+<div class="vector-sticky-pinned-container">
+<nav aria-label="Orodja strani" class="vector-page-tools-landmark">
+<div class="vector-pinned-container" id="vector-page-tools-pinned-container">
+</div>
+</nav>
+<nav aria-label="Videz" class="vector-appearance-landmark">
+<div class="vector-pinned-container" id="vector-appearance-pinned-container">
+<div class="vector-appearance vector-pinnable-element" id="vector-appearance">
+<div class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned" data-feature-name="appearance-pinned" data-pinnable-element-id="vector-appearance" data-pinned-container-id="vector-appearance-pinned-container" data-unpinned-container-id="vector-appearance-unpinned-container">
+<div class="vector-pinnable-header-label">Videz</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">prestavi v stransko letvico</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">skrij</button>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div aria-labelledby="firstHeading" class="vector-body" data-mw-ve-target-container="" id="bodyContent">
+<div class="vector-body-before-content">
+<div class="mw-indicators">
+</div>
+<div class="noprint" id="siteSub">Iz Wikipedije, proste enciklopedije</div>
+</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="sl"><style data-mw-deduplicate="TemplateStyles:r5913888">.mw-parser-output .infobox{border:1px solid #a2a9b1;border-spacing:3px;background-color:#f8f9fa;color:black;margin:0.5em 0 0.5em 1em;padding:0.2em;float:right;clear:right;font-size:88%;line-height:1.5em;width:22em}.mw-parser-output .infobox-header,.mw-parser-output .infobox-label,.mw-parser-output .infobox-above,.mw-parser-output .infobox-full-data,.mw-parser-output .infobox-data,.mw-parser-output .infobox-below,.mw-parser-output .infobox-subheader,.mw-parser-output .infobox-image,.mw-parser-output .infobox-navbar,.mw-parser-output .infobox th,.mw-parser-output .infobox td{vertical-align:top}.mw-parser-output .infobox-label,.mw-parser-output .infobox-data,.mw-parser-output .infobox th,.mw-parser-output .infobox td{text-align:left}.mw-parser-output .infobox .infobox-header,.mw-parser-output .infobox .infobox-subheader,.mw-parser-output .infobox .infobox-image,.mw-parser-output .infobox .infobox-full-data,.mw-parser-output .infobox .infobox-below{text-align:center}.mw-parser-output .infobox .infobox-above,.mw-parser-output .infobox .infobox-title,.mw-parser-output .infobox caption{font-size:125%;font-weight:bold;text-align:center}.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard"><tbody><tr><th class="infobox-above fn org" colspan="2">Univerza v Ljubljani</th></tr><tr><td class="infobox-image" colspan="2"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/Slika:LogotipUL_L.gif" title="Logo of the University of Ljubljana"><img alt="Logo of the University of Ljubljana" class="mw-file-element" data-file-height="359" data-file-width="360" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/sl/thumb/1/15/LogotipUL_L.gif/150px-LogotipUL_L.gif" srcset="//upload.wikimedia.org/wikipedia/sl/thumb/1/15/LogotipUL_L.gif/225px-LogotipUL_L.gif 1.5x, //upload.wikimedia.org/wikipedia/sl/thumb/1/15/LogotipUL_L.gif/300px-LogotipUL_L.gif 2x" width="150"/></a></span></td></tr><tr><td class="infobox-full-data nickname" colspan="2"><a href="/wiki/Latin%C5%A1%C4%8Dina" title="Latinščina">latinsko</a> <i lang="la">Universitas Labacensis</i></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;">Ustanovljena</th><td class="infobox-data">1919</td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;">Tip</th><td class="infobox-data">javna univerza</td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;">Proračun</th><td class="infobox-data">442.050.000 <a href="/wiki/Evro" title="Evro">€</a> <small>(2022)</small><sup class="reference" id="cite_ref-stevilke_1-0"><a href="#cite_note-stevilke-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;"><a href="/wiki/Rektor" title="Rektor">Rektor</a></th><td class="infobox-data"><a href="/wiki/Gregor_Majdi%C4%8D" title="Gregor Majdič">Gregor Majdič</a></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;">Strokovni sodelavci</div></th><td class="infobox-data">6.661<small>(2022)</small><sup class="reference" id="cite_ref-stevilke_1-1"><a href="#cite_note-stevilke-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;">Št. študentov</th><td class="infobox-data">37.509 <small>(2022)</small><sup class="reference" id="cite_ref-stevilke_1-2"><a href="#cite_note-stevilke-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;"><a class="new" href="/w/index.php?title=Dodiplomski_%C5%A1tudij&amp;action=edit&amp;redlink=1" title="Dodiplomski študij (stran ne obstaja)">Dodiplomskih</a></th><td class="infobox-data">21.352 <small>(2022)</small><sup class="reference" id="cite_ref-stevilke_1-3"><a href="#cite_note-stevilke-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;"><a class="new" href="/w/index.php?title=Podiplomski_%C5%A1tudij&amp;action=edit&amp;redlink=1" title="Podiplomski študij (stran ne obstaja)">Podiplomskih</a></th><td class="infobox-data">14.058 <small>(2022)</small><sup class="reference" id="cite_ref-stevilke_1-4"><a href="#cite_note-stevilke-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;">Kraj</th><td class="infobox-data adr"><span class="locality"><a href="/wiki/Ljubljana" title="Ljubljana">Ljubljana</a></span>, <span class="country-name"><a href="/wiki/Slovenija" title="Slovenija">Slovenija</a></span></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;">Članstvo v združenjih</th><td class="infobox-data"><a class="new" href="/w/index.php?title=The_Guild&amp;action=edit&amp;redlink=1" title="The Guild (stran ne obstaja)">The Guild</a>, <a class="new" href="/w/index.php?title=Zdru%C5%BEenje_evropskih_univerz&amp;action=edit&amp;redlink=1" title="Združenje evropskih univerz (stran ne obstaja)">Združenje evropskih univerz</a></td></tr><tr><th class="infobox-label" scope="row" style="padding-right:0.65em;">Spletna stran</th><td class="infobox-data"><span class="url"><a class="external text" href="http://www.uni-lj.si" rel="nofollow">www<wbr/>.uni-lj<wbr/>.si</a></span></td></tr></tbody></table>
+<p><b>Univerza v Ljubljani</b> (<a href="/wiki/Latin%C5%A1%C4%8Dina" title="Latinščina">latinsko</a> <i lang="la"><b>Universitas Labacensis</b></i>) je najstarejša in s 40.000 študenti (v študijskem letu 2016/17<sup class="reference" id="cite_ref-stevilke_1-5"><a href="#cite_note-stevilke-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>) največja <a href="/wiki/Univerza" title="Univerza">univerza</a> v <a href="/wiki/Slovenija" title="Slovenija">Sloveniji</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Sedež - Rektorat univerze se nahaja v ožjem središču <a href="/wiki/Ljubljana" title="Ljubljana">Ljubljane</a>, v stavbi <a href="/wiki/Kranjski_de%C5%BEelni_dvorec" title="Kranjski deželni dvorec">Kranjskega deželnega dvorca</a> na <a class="mw-redirect" href="/wiki/Kongresni_trg,_Ljubljana" title="Kongresni trg, Ljubljana">Kongresnem trgu</a>, fakultete pa se nahajajo v različnih delih Ljubljane in ena od njih, <a href="/wiki/Fakulteta_za_pomorstvo_in_promet" title="Fakulteta za pomorstvo in promet">Fakulteta za pomorstvo in promet</a>, v <a href="/wiki/Portoro%C5%BE" title="Portorož">Portorožu</a>.
+</p><p>Trenutni (45.) <a href="/wiki/Rektor" title="Rektor">rektor</a> Univerze je <a href="/wiki/Gregor_Majdi%C4%8D" title="Gregor Majdič">Gregor Majdič</a>. Študenti so organizirani v krovno <a href="/wiki/%C5%A0tudentska_organizacija_Univerze_v_Ljubljani" title="Študentska organizacija Univerze v Ljubljani">Študentsko organizacijo Univerze v Ljubljani</a>.
+</p><p>Na različnih mednarodnih lestvicah, ki rangirajo univerze po akademskih in znanstvenih dosežkih, se ljubljanska univerza običajno uvršča med 600 najboljših univerz na svetu, kot najvišje uvrščena univerza v Sloveniji. Po lestvici Academic Ranking of World Universities (ARWU, t. i. »<a href="/wiki/%C5%A0anghajska_lestvica" title="Šanghajska lestvica">šanghajska lestvica</a>«) se tako do leta 2018 uvrščala med 500 najboljših, naslednje leto pa je zdrsnila stoterico nižje.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Po lestvici QS World University Rankings je v rangu 591–600 najboljših za leto 2019, pri čemer je najbolje ocenjeni študijski program <a href="/wiki/Fizika" title="Fizika">fizike</a> in <a href="/wiki/Astronomija" title="Astronomija">astronomije</a> med 250 najboljših,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> po lestvici THE World University Rankings (Times Higher Education, 2019) pa v rangu 601–800.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<meta property="mw:PageProp/toc">
+<div class="mw-heading mw-heading2"><h2 id="Zgodovina">Zgodovina</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=1" title="Uredi razdelek: Zgodovina"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=1" title="Urejanje izvorne kode razdelka: Zgodovina"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/Slika:Univerza_v_Ljubljani_01.jpg"><img class="mw-file-element" data-file-height="2275" data-file-width="3555" decoding="async" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Univerza_v_Ljubljani_01.jpg/220px-Univerza_v_Ljubljani_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Univerza_v_Ljubljani_01.jpg/330px-Univerza_v_Ljubljani_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Univerza_v_Ljubljani_01.jpg/440px-Univerza_v_Ljubljani_01.jpg 2x" width="220"/></a><figcaption>Sedež (rektorat) univerze</figcaption></figure>
+<p>Leta 1595 je <a href="/wiki/Adam_Bohori%C4%8D" title="Adam Bohorič">Adam Bohorič</a> postal rektor ljubljanske protestantske stanovske šole (1563-1598), ki je v zadnjem obdobju delovanja pridobila nekatere atribute višje šole.
+</p><p>V letih od 1597 do 1773 je v Ljubljani deloval jezuitski kolegij, ki je od leta 1619 začel uvajati tudi nekatere višješolske programe. Visokošolsko izobraževanje se je v Ljubljani uradno začelo leta 1704, ko so v okviru filozofskega študija na jezuitskem kolegiju ustanovili stolici za logiko in cerkveno pravo, 1705 so ustanovili še stolico za fiziko in matematiko, leta 1766 pa stolico za mehaniko. Pokrivali so tudi  študij teologije v povezavi s filozofskim študijem. Ker visokošolska ustanova v Ljubljani ni premogla vseh študijev,  jo danes nekateri imenujejo tudi semiuniverza. V 18. stoletju je bil dodatno uveden še  medicinsko-kirurški študij.  
+</p><p>Popolna univerza v Ljubljani, z možnostjo študija medicine in kirurgije, inženirstva, arhitekture, prava in teologije, sprva pod imenom Écoles centrales, je bila ustanovljena leta 1810 v času <a href="/wiki/Napoleon_Bonaparte" title="Napoleon Bonaparte">Napoleonovih</a> <a href="/wiki/Ilirske_province" title="Ilirske province">Ilirskih provinc</a>, a je bila kmalu za tem, ko si je <a href="/wiki/Avstrijsko_cesarstvo" title="Avstrijsko cesarstvo">Avstrija</a> povrnila oblast nad Slovenijo, ukinjena. Višje/visokošolsko izobraževanje v Ljubljani pa je avstrijska oblast vrnila v obliko, ki je obstajala pred francosko zasedbo. Rektor ljubljanske univerze za časa francoskih Centralnih šol je bil <a href="/wiki/Jo%C5%BEef_Balant" title="Jožef Balant">Jožef Balant</a> (Walland, Valant) (1763-1834), kasnejši goriški škof in nadškof ter metropolit ilirski, ki je bil rojen v Novi vasi pri Radovljici. Zaslužen je bil za razvoj osnovnega, višjega in visokega šolstva na Slovenskem in spada med naše pomembne narodnobuditeljske šolnike in duhovnike.
+</p><p>Prve zahteve po slovenski univerzi so se pojavile že v <a href="/wiki/Revolucije_leta_1848" title="Revolucije leta 1848">pomladi narodov</a> 1848-1849 (tedaj so bila za kratek čas v Ljubljani in Gradcu organizirana predavanja iz prava v slovenskem jeziku), ki jih je nato po zamrtju v dobi <a href="/wiki/Alexander_Bach" title="Alexander Bach">Bachovega</a> neoabsolutizma oživilo <a href="/wiki/Taborsko_gibanje" title="Taborsko gibanje">taborsko gibanje</a> konec 60 let 19. stoletja.
+</p><p>Začasno narodno predstavništvo v <a href="/wiki/Beograd" title="Beograd">Beogradu</a> je 16. julija 1919 na 55. seji v drugem branju dokončno sprejelo zakon o Univerzi v Ljubljani, uradno »Zakon o Univerzi Kraljestva Srbov, Hrvatov in Slovencev v Ljubljani«, s popolnimi <a href="/wiki/Pravna_fakulteta_v_Ljubljani" title="Pravna fakulteta v Ljubljani">Pravno</a>, <a href="/wiki/Filozofska_fakulteta_v_Ljubljani" title="Filozofska fakulteta v Ljubljani">Filozofsko</a>, <a href="/wiki/Tehni%C5%A1ka_fakulteta_v_Ljubljani" title="Tehniška fakulteta v Ljubljani">Tehniško</a>, <a href="/wiki/Teolo%C5%A1ka_fakulteta_v_Ljubljani" title="Teološka fakulteta v Ljubljani">Teološko</a> in nepopolno, dvoletno <a class="mw-redirect" href="/wiki/Medicinska_fakulteta_v_Ljubljani" title="Medicinska fakulteta v Ljubljani">Medicinsko</a> fakulteto. Za je glasovalo 153 od 153 prisotnih poslancev. Regent Aleksander je zakon podpisal 23. 7. 1919 in ta datum štejemo tudi za uradni ustanovitveni datum, čeprav je bil v uradnem listu Kraljevine SHS, Službene Novine št. 83, objavljen šele  23. 8. 1919, v Uradnem listu Deželne vlade za Slovenijo št. 140 pa 1. 9. 1919.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Veliko zaslug za ustanovitev univerze imata <a href="/wiki/Karel_Verstov%C5%A1ek" title="Karel Verstovšek">Karel Verstovšek</a><sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> in <a href="/wiki/Mihajlo_Rostohar" title="Mihajlo Rostohar">Mihajlo Rostohar</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> S kraljevo odločbo je bilo 31. avgusta imenovanih prvih  profesorjev. Dvanajstega novembra so bili izvoljeni <a href="/wiki/Rektor" title="Rektor">rektor</a> in dekani, 3. decembra pa je bilo prvo predavanje.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> V prvem letu (1919-1920) se je na univerzo vpisalo 942 študentov, od tega 28 žensk in 914 moških. V študijskem letu 2007-2008 pa je bilo vpisanih že 47.465 študentov.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r6309535">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style><table class="box-Razširi_razdelek plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/Slika:Wiki_letter_w_cropped.svg"><img alt="[icon]" class="mw-file-element" data-file-height="31" data-file-width="44" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/></a></span></td><td class="mbox-text"><div class="mbox-text-span">Ta razdelek <b>potrebuje razširitev</b>. Pomagajte Wikipediji in ga <a class="external text" href="https://sl.wikipedia.org/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=">razširite</a>.  <span class="date-container"><i>(<span class="date">mesec ni naveden </span>)</i></span></div></td></tr></tbody></table>
+<div class="mw-heading mw-heading3"><h3 id="Zgodovina_poimenovanja">Zgodovina poimenovanja</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=2" title="Uredi razdelek: Zgodovina poimenovanja"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=2" title="Urejanje izvorne kode razdelka: Zgodovina poimenovanja"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Univerza Kraljevine Srbov, Hrvatov in Slovencev v Ljubljani/Universitas Labacensis (1919–1929)</li>
+<li>Univerza kralja Aleksandra I. v Ljubljani/Universitas Alexandrina (1929–1941)</li>
+<li>R. universita di Lubiana/Kraljeva univerza v Ljubljani (1941–1943)</li>
+<li>Universität Laibach/Univerza v Ljubljani (1943–1945)</li>
+<li>Univerza v Ljubljani (1945–1979)</li>
+<li>Univerza Edvarda Kardelja v Ljubljani (1979–1990)</li>
+<li>Univerza v Ljubljani (od 1990)</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Organiziranost">Organiziranost</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=3" title="Uredi razdelek: Organiziranost"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=3" title="Urejanje izvorne kode razdelka: Organiziranost"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/Slika:Gregor_Majdic.jpg"><img class="mw-file-element" data-file-height="937" data-file-width="927" decoding="async" height="222" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gregor_Majdic.jpg/220px-Gregor_Majdic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gregor_Majdic.jpg/330px-Gregor_Majdic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gregor_Majdic.jpg/440px-Gregor_Majdic.jpg 2x" width="220"/></a><figcaption>Trenutni rektor univerze je endokrinolog z Veterinarske fakultete <a href="/wiki/Gregor_Majdi%C4%8D" title="Gregor Majdič">Gregor Majdič</a>.</figcaption></figure>
+<p>Univerza v Ljubljani je javna ustanova, katere formalnopravna ustanoviteljica je <a class="mw-redirect" href="/wiki/Republika_Slovenija" title="Republika Slovenija">Republika Slovenija</a>,<sup class="reference" id="cite_ref-Statut_12-0"><a href="#cite_note-Statut-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> a ima poseben status med javnimi ustanovami, saj <a href="/wiki/Ustava_Republike_Slovenije" title="Ustava Republike Slovenije">slovenska Ustava</a> in Zakon o visokem šolstvu določata, da so javne univerze pri izvajanju svojega poslanstva avtonomne v organizacijskem in akademskem smislu. Pri tem pa ta pojem v zakonodaji ni natančno opredeljen, tako da je v praksi avtonomija omejena na več načinov, na primer z umestitvijo akademskega osebja v sistem javnih uslužbencev.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p><p>Vodja in predstavnik univerze je rektor, ostali organi pa so še senat, ki je najvišji strokovni organ, upravni odbor, ki je odgovoren zlasti za materialne zadeve, in študentski svet, ki zastopa interese študentov. Članice – fakultete in akademije – vodijo <a href="/wiki/Dekan_(%C5%A1olstvo)" title="Dekan (šolstvo)">dekani</a>, poleg tega pa imajo lastne senate, upravne odbore, študentske svete, akademske zbore in druge organe.<sup class="reference" id="cite_ref-Statut_12-1"><a href="#cite_note-Statut-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p><p>Največji delež proračuna (za leto 2022<sup class="reference" id="cite_ref-stevilke_1-6"><a href="#cite_note-stevilke-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>) predstavljajo neposredna proračunska sredstva za izvajanje študijskih programov,<sup class="reference" id="cite_ref-15"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> fakultete pa lahko pridobivajo sredstva tudi z naslova šolnin za izredni študij, kandidiranjem na nacionalnih in mednarodnih razpisih za raziskovalno dejavnost ter iz drugih virov.<sup class="reference" id="cite_ref-Statut_12-2"><a href="#cite_note-Statut-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Članice_univerze"><span id=".C4.8Clanice_univerze"></span>Članice univerze</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=4" title="Uredi razdelek: Članice univerze"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=4" title="Urejanje izvorne kode razdelka: Članice univerze"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Univerzo sestavlja 26 članic, od tega 23 <a href="/wiki/Fakulteta" title="Fakulteta">fakultet</a> in tri umetniške <a class="new" href="/w/index.php?title=Akademija_(%C5%A1ola)&amp;action=edit&amp;redlink=1" title="Akademija (šola) (stran ne obstaja)">akademije</a>, ki izvajajo študijske programe v skladu z nacionalnim programom visokega šolstva.<sup class="reference" id="cite_ref-Statut_12-3"><a href="#cite_note-Statut-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Trenutne_članice"><span id="Trenutne_.C4.8Dlanice"></span>Trenutne članice</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=5" title="Uredi razdelek: Trenutne članice"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=5" title="Urejanje izvorne kode razdelka: Trenutne članice"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="references-small" style="-webkit-column-count:3; -moz-column-count:3; column-count:3;">
+<ul><li><a href="/wiki/Akademija_za_glasbo_v_Ljubljani" title="Akademija za glasbo v Ljubljani">Akademija za glasbo</a></li>
+<li><a href="/wiki/Akademija_za_gledali%C5%A1%C4%8De,_radio,_film_in_televizijo_v_Ljubljani" title="Akademija za gledališče, radio, film in televizijo v Ljubljani">Akademija za gledališče, radio, film in televizijo</a></li>
+<li><a href="/wiki/Akademija_za_likovno_umetnost_in_oblikovanje_v_Ljubljani" title="Akademija za likovno umetnost in oblikovanje v Ljubljani">Akademija za likovno umetnost in oblikovanje</a></li>
+<li><a href="/wiki/Biotehni%C5%A1ka_fakulteta_v_Ljubljani" title="Biotehniška fakulteta v Ljubljani">Biotehniška fakulteta</a></li>
+<li><a href="/wiki/Ekonomska_fakulteta_v_Ljubljani" title="Ekonomska fakulteta v Ljubljani">Ekonomska fakulteta</a></li>
+<li><a href="/wiki/Fakulteta_za_arhitekturo_v_Ljubljani" title="Fakulteta za arhitekturo v Ljubljani">Fakulteta za arhitekturo</a></li>
+<li><a href="/wiki/Fakulteta_za_dru%C5%BEbene_vede_v_Ljubljani" title="Fakulteta za družbene vede v Ljubljani">Fakulteta za družbene vede</a></li>
+<li><a href="/wiki/Fakulteta_za_elektrotehniko_v_Ljubljani" title="Fakulteta za elektrotehniko v Ljubljani">Fakulteta za elektrotehniko</a></li>
+<li><a href="/wiki/Fakulteta_za_farmacijo_v_Ljubljani" title="Fakulteta za farmacijo v Ljubljani">Fakulteta za farmacijo</a></li>
+<li><a href="/wiki/Fakulteta_za_gradbeni%C5%A1tvo_in_geodezijo_v_Ljubljani" title="Fakulteta za gradbeništvo in geodezijo v Ljubljani">Fakulteta za gradbeništvo in geodezijo</a></li>
+<li><a href="/wiki/Fakulteta_za_kemijo_in_kemijsko_tehnologijo_v_Ljubljani" title="Fakulteta za kemijo in kemijsko tehnologijo v Ljubljani">Fakulteta za kemijo in kemijsko tehnologijo</a></li>
+<li><a href="/wiki/Fakulteta_za_matematiko_in_fiziko_v_Ljubljani" title="Fakulteta za matematiko in fiziko v Ljubljani">Fakulteta za matematiko in fiziko</a></li>
+<li><a href="/wiki/Fakulteta_za_pomorstvo_in_promet" title="Fakulteta za pomorstvo in promet">Fakulteta za pomorstvo in promet</a></li>
+<li><a href="/wiki/Fakulteta_za_ra%C4%8Dunalni%C5%A1tvo_in_informatiko_v_Ljubljani" title="Fakulteta za računalništvo in informatiko v Ljubljani">Fakulteta za računalništvo in informatiko</a></li>
+<li><a href="/wiki/Fakulteta_za_socialno_delo_v_Ljubljani" title="Fakulteta za socialno delo v Ljubljani">Fakulteta za socialno delo</a></li>
+<li><a href="/wiki/Fakulteta_za_strojni%C5%A1tvo_v_Ljubljani" title="Fakulteta za strojništvo v Ljubljani">Fakulteta za strojništvo</a></li>
+<li><a href="/wiki/Fakulteta_za_%C5%A1port_v_Ljubljani" title="Fakulteta za šport v Ljubljani">Fakulteta za šport</a></li>
+<li><a href="/wiki/Fakulteta_za_upravo_v_Ljubljani" title="Fakulteta za upravo v Ljubljani">Fakulteta za upravo</a></li>
+<li><a href="/wiki/Filozofska_fakulteta_v_Ljubljani" title="Filozofska fakulteta v Ljubljani">Filozofska fakulteta</a></li>
+<li><a class="mw-redirect" href="/wiki/Medicinska_fakulteta_v_Ljubljani" title="Medicinska fakulteta v Ljubljani">Medicinska fakulteta</a></li>
+<li><a href="/wiki/Naravoslovnotehni%C5%A1ka_fakulteta_v_Ljubljani" title="Naravoslovnotehniška fakulteta v Ljubljani">Naravoslovno-tehniška fakulteta</a></li>
+<li><a href="/wiki/Pedago%C5%A1ka_fakulteta_v_Ljubljani" title="Pedagoška fakulteta v Ljubljani">Pedagoška fakulteta</a></li>
+<li><a href="/wiki/Pravna_fakulteta_v_Ljubljani" title="Pravna fakulteta v Ljubljani">Pravna fakulteta</a></li>
+<li><a href="/wiki/Teolo%C5%A1ka_fakulteta_v_Ljubljani" title="Teološka fakulteta v Ljubljani">Teološka fakulteta</a></li>
+<li><a href="/wiki/Veterinarska_fakulteta_v_Ljubljani" title="Veterinarska fakulteta v Ljubljani">Veterinarska fakulteta</a></li>
+<li><a href="/wiki/Zdravstvena_fakulteta_v_Ljubljani" title="Zdravstvena fakulteta v Ljubljani">Zdravstvena fakulteta</a></li></ul>
+</div>
+<div class="mw-heading mw-heading4"><h4 id="Bivše_članice"><span id="Biv.C5.A1e_.C4.8Dlanice"></span>Bivše članice</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=6" title="Uredi razdelek: Bivše članice"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=6" title="Urejanje izvorne kode razdelka: Bivše članice"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="references-small" style="-webkit-column-count:2; -moz-column-count:2; column-count:2;">
+<ul><li><a href="/wiki/Agronomska_fakulteta_v_Ljubljani" title="Agronomska fakulteta v Ljubljani">Agronomska fakulteta</a> (1947–1949)</li>
+<li><a href="/wiki/Agronomska_in_gozdarska_fakulteta_v_Ljubljani" title="Agronomska in gozdarska fakulteta v Ljubljani">Agronomska in gozdarska fakulteta</a> (1949–1956)</li>
+<li><a href="/wiki/Fakulteta_za_agronomijo,_gozdarstvo_in_veterinarstvo_v_Ljubljani" title="Fakulteta za agronomijo, gozdarstvo in veterinarstvo v Ljubljani">Fakulteta za agronomijo, gozdarstvo in veterinarstvo</a> (1956–1961)</li>
+<li><a href="/wiki/Fakulteta_za_elektrotehniko_in_ra%C4%8Dunalni%C5%A1tvo_v_Ljubljani" title="Fakulteta za elektrotehniko in računalništvo v Ljubljani">Fakulteta za elektrotehniko in računalništvo</a> (1989–1996)</li>
+<li><a href="/wiki/Fakulteta_za_naravoslovje_in_tehnologijo_v_Ljubljani" title="Fakulteta za naravoslovje in tehnologijo v Ljubljani">Fakulteta za naravoslovje in tehnologijo</a> (1960–1994)</li>
+<li><a href="/wiki/Fakulteta_za_rudarstvo,_metalurgijo_in_kemijsko_tehnologijo_v_Ljubljani" title="Fakulteta za rudarstvo, metalurgijo in kemijsko tehnologijo v Ljubljani">Fakulteta za rudarstvo, metalurgijo in kemijsko tehnologijo</a> (do 1960)</li>
+<li><a href="/wiki/Fakulteta_za_splo%C5%A1no_medicino_v_Ljubljani" title="Fakulteta za splošno medicino v Ljubljani">Fakulteta za splošno medicino</a> (1950–1954)</li>
+<li><a href="/wiki/Fakulteta_za_sociologijo,_politi%C4%8Dne_vede_in_novinarstvo_v_Ljubljani" title="Fakulteta za sociologijo, politične vede in novinarstvo v Ljubljani">Fakulteto za sociologijo, politične vede in novinarstvo</a> (1970–1991)</li>
+<li><a href="/wiki/Naravoslovna_fakulteta_v_Ljubljani" title="Naravoslovna fakulteta v Ljubljani">Naravoslovna fakulteta</a> (1957–1960)</li>
+<li><a class="new" href="/w/index.php?title=Pedago%C5%A1ka_akademija&amp;action=edit&amp;redlink=1" title="Pedagoška akademija (stran ne obstaja)">Pedagoška akademija</a> (1975–199?)</li>
+<li><a href="/wiki/Pravno-ekonomska_fakulteta_v_Ljubljani" title="Pravno-ekonomska fakulteta v Ljubljani">Pravno-ekonomska fakulteta</a> (1954–1957)</li>
+<li><a class="mw-redirect" href="/wiki/Prirodoslovno-matemati%C4%8Dna_fakulteta_v_Ljubljani" title="Prirodoslovno-matematična fakulteta v Ljubljani">Prirodoslovno-matematična fakulteta</a> (1949–1957)</li>
+<li><a href="/wiki/Prirodoslovno-matemati%C4%8Dno-filozofska_fakulteta_v_Ljubljani" title="Prirodoslovno-matematično-filozofska fakulteta v Ljubljani">Prirodoslovno-matematično-filozofska fakulteta</a> (1954–1958)</li>
+<li><a href="/wiki/Stomatolo%C5%A1ka_fakulteta_v_Ljubljani" title="Stomatološka fakulteta v Ljubljani">Stomatološka fakulteta</a> (1950–1954)</li>
+<li><a href="/wiki/Tehni%C5%A1ka_fakulteta_v_Ljubljani" title="Tehniška fakulteta v Ljubljani">Tehniška fakulteta</a> (1919–1950 in 1954–1957)</li>
+<li><a class="new" href="/w/index.php?title=Vi%C5%A1ja/visoka_%C5%A1ola_za_socialno_delo&amp;action=edit&amp;redlink=1" title="Višja/visoka šola za socialno delo (stran ne obstaja)">Višja/visoka šola za socialno delo</a></li>
+<li><a class="new" href="/w/index.php?title=Vi%C5%A1ja/Visoka_%C5%A1ola_za_telesno_kulturo&amp;action=edit&amp;redlink=1" title="Višja/Visoka šola za telesno kulturo (stran ne obstaja)">Višja/Visoka šola za telesno kulturo</a> (1975–?)</li>
+<li><a class="new" href="/w/index.php?title=Vi%C5%A1ja_%C5%A1ola_za_zdravstvene_delavce_v_Ljubljani&amp;action=edit&amp;redlink=1" title="Višja šola za zdravstvene delavce v Ljubljani (stran ne obstaja)">Višja šola za zdravstvene delavce</a> (1975–1993)</li>
+<li><a href="/wiki/Visoka_%C5%A1ola_za_zdravstvo_v_Ljubljani" title="Visoka šola za zdravstvo v Ljubljani">Visoka šola za zdravstvo</a> (1993–2009)</li>
+<li><a class="new" href="/w/index.php?title=Vi%C5%A1ja/visoka_tehni%C5%A1ko-varnostna_%C5%A1ola&amp;action=edit&amp;redlink=1" title="Višja/visoka tehniško-varnostna šola (stran ne obstaja)">Višja/visoka tehniško-varnostna šola</a></li>
+<li><a class="new" href="/w/index.php?title=Vi%C5%A1ja/visoka_upravna_%C5%A1ola&amp;action=edit&amp;redlink=1" title="Višja/visoka upravna šola (stran ne obstaja)">Višja/visoka upravna šola</a></li></ul></div>
+<div class="mw-heading mw-heading3"><h3 id="Druge_povezane_ustanove">Druge povezane ustanove</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=7" title="Uredi razdelek: Druge povezane ustanove"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=7" title="Urejanje izvorne kode razdelka: Druge povezane ustanove"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Botani%C4%8Dni_vrt_Univerze_v_Ljubljani" title="Botanični vrt Univerze v Ljubljani">Botanični vrt Univerze v Ljubljani</a></li>
+<li><a href="/wiki/Centralna_tehni%C5%A1ka_knji%C5%BEnica_Univerze_v_Ljubljani" title="Centralna tehniška knjižnica Univerze v Ljubljani">Centralna tehniška knjižnica Univerze v Ljubljani</a></li>
+<li><a href="/wiki/Nacionalni_in%C5%A1titut_za_biologijo" title="Nacionalni inštitut za biologijo">Nacionalni inštitut za biologijo</a></li>
+<li><a href="/wiki/Narodna_in_univerzitetna_knji%C5%BEnica" title="Narodna in univerzitetna knjižnica">Narodna in univerzitetna knjižnica</a></li>
+<li><a class="new" href="/w/index.php?title=Ra%C4%8Dunalni%C5%A1ki_center_Univerze_v_Ljubljani&amp;action=edit&amp;redlink=1" title="Računalniški center Univerze v Ljubljani (stran ne obstaja)">Računalniški center Univerze v Ljubljani</a></li>
+<li><a class="new" href="/w/index.php?title=Raziskovalno-razvojni_center_Univerze_Ljubljani&amp;action=edit&amp;redlink=1" title="Raziskovalno-razvojni center Univerze Ljubljani (stran ne obstaja)">Raziskovalno-razvojni center Univerze Ljubljani</a></li>
+<li><a class="new" href="/w/index.php?title=Repozitorij&amp;action=edit&amp;redlink=1" title="Repozitorij (stran ne obstaja)">Repozitorij</a></li>
+<li><a class="new" href="/w/index.php?title=Zgodovinski_arhiv_in_muzej_Univerze_v_Ljubljani&amp;action=edit&amp;redlink=1" title="Zgodovinski arhiv in muzej Univerze v Ljubljani (stran ne obstaja)">Zgodovinski arhiv in muzej Univerze v Ljubljani</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Viri_in_opombe">Viri in opombe</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=8" title="Uredi razdelek: Viri in opombe"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=8" title="Urejanje izvorne kode razdelka: Viri in opombe"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-stevilke-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-stevilke_1-0">1,0</a></sup> <sup><a href="#cite_ref-stevilke_1-1">1,1</a></sup> <sup><a href="#cite_ref-stevilke_1-2">1,2</a></sup> <sup><a href="#cite_ref-stevilke_1-3">1,3</a></sup> <sup><a href="#cite_ref-stevilke_1-4">1,4</a></sup> <sup><a href="#cite_ref-stevilke_1-5">1,5</a></sup> <sup><a href="#cite_ref-stevilke_1-6">1,6</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r5980307">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"»""«""›""‹"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a class="external text" href="http://www.uni-lj.si/o_univerzi_v_ljubljani/univerza_v_stevilkah/" rel="nofollow">»Univerza v številkah«</a>. Univerza v Ljubljani. 2022<span class="reference-accessdate">. Pridobljeno 16. junija 2023</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=neznano&amp;rft.btitle=Univerza+v+%C5%A1tevilkah&amp;rft.pub=Univerza+v+Ljubljani&amp;rft.date=2022&amp;rft_id=http%3A%2F%2Fwww.uni-lj.si%2Fo_univerzi_v_ljubljani%2Funiverza_v_stevilkah%2F&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation web cs1" id="CITEREFValič2013">Valič, Urša (13. december 2013). <a class="external text" href="https://fototekamnzs.com/2013/12/03/dan-univerze-v-ljubljani/" rel="nofollow">»Dan Univerze v Ljubljani«</a>. <a class="mw-redirect" href="/wiki/Muzej_novej%C5%A1e_zgodovine_Slovenije" title="Muzej novejše zgodovine Slovenije">Muzej novejše zgodovine Slovenije</a><span class="reference-accessdate">. Pridobljeno 13. oktobra 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=neznano&amp;rft.btitle=Dan+Univerze+v+Ljubljani&amp;rft.pub=Muzej+novej%C5%A1e+zgodovine+Slovenije&amp;rft.date=2013-12-13&amp;rft.aulast=Vali%C4%8D&amp;rft.aufirst=Ur%C5%A1a&amp;rft_id=https%3A%2F%2Ffototekamnzs.com%2F2013%2F12%2F03%2Fdan-univerze-v-ljubljani%2F&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation web cs1"><a class="external text" href="https://web.archive.org/web/20190810104305/http://www.shanghairanking.com/World-University-Rankings/University-of-Ljubljana.html" rel="nofollow">»University of Ljubljana«</a>. <i>Academic Ranking of World Universities</i>. Arhivirano iz <a class="external text" href="http://www.shanghairanking.com/World-University-Rankings/University-of-Ljubljana.html" rel="nofollow">prvotnega spletišča</a> dne 10. avgusta 2019<span class="reference-accessdate">. Pridobljeno 18. avgusta 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=neznano&amp;rft.jtitle=Academic+Ranking+of+World+Universities&amp;rft.atitle=University+of+Ljubljana&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FWorld-University-Rankings%2FUniversity-of-Ljubljana.html&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation news cs1" id="CITEREFŠkerl_Kramberger2019">Škerl Kramberger, Uroš (17. avgust 2019). <a class="external text" href="https://www.dnevnik.si/1042895435" rel="nofollow">»Premalo denarja, nižje uvrstitve slovenskih univerz v svetovni konkurenci«</a>. <i><a href="/wiki/Dnevnik_(%C4%8Dasopis)" title="Dnevnik (časopis)">Dnevnik</a></i><span class="reference-accessdate">. Pridobljeno 18. avgusta 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=%C4%8Dlanek&amp;rft.jtitle=Dnevnik&amp;rft.atitle=Premalo+denarja%2C+ni%C5%BEje+uvrstitve+slovenskih+univerz+v+svetovni+konkurenci&amp;rft.date=2019-08-17&amp;rft.aulast=%C5%A0kerl+Kramberger&amp;rft.aufirst=Uro%C5%A1&amp;rft_id=https%3A%2F%2Fwww.dnevnik.si%2F1042895435&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation web cs1"><a class="external text" href="https://www.topuniversities.com/universities/university-ljubljana" rel="nofollow">»University of Ljubljana«</a>. <i>QS Top Universities</i>. Quacquarelli Symonds Ltd<span class="reference-accessdate">. Pridobljeno 23. julija 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=neznano&amp;rft.jtitle=QS+Top+Universities&amp;rft.atitle=University+of+Ljubljana&amp;rft_id=https%3A%2F%2Fwww.topuniversities.com%2Funiversities%2Funiversity-ljubljana&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation web cs1"><a class="external text" href="https://www.timeshighereducation.com/world-university-rankings/university-ljubljana" rel="nofollow">»University of Ljubljana«</a>. <i>THE World University Rankings</i><span class="reference-accessdate">. Pridobljeno 23. julija 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=neznano&amp;rft.jtitle=THE+World+University+Rankings&amp;rft.atitle=University+of+Ljubljana&amp;rft_id=https%3A%2F%2Fwww.timeshighereducation.com%2Fworld-university-rankings%2Funiversity-ljubljana&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation book cs1" id="CITEREFPolec1929"><a href="/wiki/Janko_Polec" title="Janko Polec">Polec, Janko</a> (1929). »Ljubljansko višje šolstvo v preteklosti in borba za slovensko univerzo«. <i>Zgodovina slovenske univerze v Ljubljani do leta 1929</i>. Ljubljana: Rektorat Univerze kralja Aleksandra prvega. str. 173 in 181.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=knji%C5%BEni+predmet&amp;rft.atitle=Ljubljansko+vi%C5%A1je+%C5%A1olstvo+v+preteklosti+in+borba+za+slovensko+univerzo&amp;rft.btitle=Zgodovina+slovenske+univerze+v+Ljubljani+do+leta+1929&amp;rft.place=Ljubljana&amp;rft.pages=173+in+181&amp;rft.pub=Rektorat+Univerze+kralja+Aleksandra+prvega&amp;rft.date=1929&amp;rft.aulast=Polec&amp;rft.aufirst=Janko&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Znameniti Velenjčan Karel Verstovšek, zaslužni slovenski politik</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation web cs1" id="CITEREFTrstenjak,_Anton">Trstenjak, Anton. <a class="external text" href="http://www.slovenska-biografija.si/oseba/sbi518905" rel="nofollow">»Rostohar, Mihajlo«</a>. <i><a href="/wiki/Slovenski_biografski_leksikon" title="Slovenski biografski leksikon">Slovenski biografski leksikon</a></i>. Ljubljana: <a href="/wiki/Znanstvenoraziskovalni_center_Slovenske_akademije_znanosti_in_umetnosti" title="Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti">ZRC SAZU</a>, 2013 – prek <a href="/wiki/Slovenska_biografija" title="Slovenska biografija">Slovenska biografija</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=neznano&amp;rft.jtitle=Slovenski+biografski+leksikon.&amp;rft.atitle=Rostohar%2C+Mihajlo&amp;rft.au=Trstenjak%2C+Anton&amp;rft_id=http%3A%2F%2Fwww.slovenska-biografija.si%2Foseba%2Fsbi518905&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation web cs1"><a class="external text" href="https://web.archive.org/web/20131006094908/http://www.uni-lj.si/o_univerzi_v_ljubljani/zgodovina_ul/" rel="nofollow">»Zgodovina UL«</a>. Univerza v Ljubljani. Arhivirano iz <a class="external text" href="http://www.uni-lj.si/o_univerzi_v_ljubljani/zgodovina_ul/" rel="nofollow">prvotnega spletišča</a> dne 6. oktobra 2013<span class="reference-accessdate">. Pridobljeno 3. oktobra 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=neznano&amp;rft.btitle=Zgodovina+UL&amp;rft.pub=Univerza+v+Ljubljani&amp;rft_id=http%3A%2F%2Fwww.uni-lj.si%2Fo_univerzi_v_ljubljani%2Fzgodovina_ul%2F&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation book cs1" id="CITEREFKuharPotokar2008">Kuhar, Špela; Potokar, Robert (2008). <i>Gremo v mesto Ljubljana</i>. Ustanova Fundacija Piranesi.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=knjiga&amp;rft.btitle=Gremo+v+mesto+Ljubljana&amp;rft.pub=Ustanova+Fundacija+Piranesi&amp;rft.date=2008&amp;rft.aulast=Kuhar&amp;rft.aufirst=%C5%A0pela&amp;rft.au=Potokar%2C+Robert&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-Statut-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Statut_12-0">12,0</a></sup> <sup><a href="#cite_ref-Statut_12-1">12,1</a></sup> <sup><a href="#cite_ref-Statut_12-2">12,2</a></sup> <sup><a href="#cite_ref-Statut_12-3">12,3</a></sup></span> <span class="reference-text"><span class="citation Journal"><a class="external text" href="http://www.pisrs.si/Pis.web/pregledPredpisa?id=STAT98#" rel="nofollow">"Statut Univerze v Ljubljani"</a>. <i>Pravno-informacijski sistem</i>. 28.1.2005<span class="printonly">. <a class="external free" href="http://www.pisrs.si/Pis.web/pregledPredpisa?id=STAT98#" rel="nofollow">http://www.pisrs.si/Pis.web/pregledPredpisa?id=STAT98#</a></span><span class="reference-accessdate">. Pridobljeno 31.10.2016</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Statut+Univerze+v+Ljubljani&amp;rft.jtitle=Pravno-informacijski+sistem&amp;rft.date=28.1.2005&amp;rft_id=http%3A%2F%2Fwww.pisrs.si%2FPis.web%2FpregledPredpisa%3Fid%3DSTAT98%23&amp;rfr_id=info:sid/en.wikipedia.org:Univerza_v_Ljubljani"><span style="display: none;"> </span></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation news cs1" id="CITEREFSvetlik2016">Svetlik, Ivan (9. april 2016). <a class="external text" href="http://www.delo.si/sobotna/komu-koristita-akademska-svoboda-in-avtonomija-univerz.html" rel="nofollow">»Komu koristita akademska svoboda in avtonomija univerz?«</a>. <i><a href="/wiki/Delo_(%C4%8Dasopis)" title="Delo (časopis)">Delo</a></i><span class="reference-accessdate">. Pridobljeno 31. oktobra 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=%C4%8Dlanek&amp;rft.jtitle=Delo&amp;rft.atitle=Komu+koristita+akademska+svoboda+in+avtonomija+univerz%3F&amp;rft.date=2016-04-09&amp;rft.aulast=Svetlik&amp;rft.aufirst=Ivan&amp;rft_id=http%3A%2F%2Fwww.delo.si%2Fsobotna%2Fkomu-koristita-akademska-svoboda-in-avtonomija-univerz.html&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r5980307" rel="mw-deduplicated-inline-style"/><cite class="citation magazine cs1" id="CITEREFIgličar2005"><a href="/wiki/Albin_Igli%C4%8Dar" title="Albin Igličar">Igličar, Albin</a> (2005). <a class="external text" href="https://revus.revues.org/1816#abstract-1816-sl" rel="nofollow">»Avtonomija univerze v luči slovenske in evropske ustave ter bolonjske deklaracije«</a>. <i>Revus</i>. Zv. 5. str. 91–101. <a class="mw-redirect" href="/wiki/Doi_(identifikator)" title="Doi (identifikator)">doi</a>:<a class="external text" href="https://doi.org/10.4000%2Frevus.1816" rel="nofollow">10.4000/revus.1816</a>. <a class="mw-redirect" href="/wiki/ISSN_(identifikator)" title="ISSN (identifikator)">ISSN</a> <a class="external text" href="https://www.worldcat.org/issn/1581-7652" rel="nofollow">1581-7652</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=%C4%8Dlanek&amp;rft.jtitle=Revus&amp;rft.atitle=Avtonomija+univerze+v+lu%C4%8Di+slovenske+in+evropske+ustave+ter+bolonjske+deklaracije&amp;rft.volume=5&amp;rft.pages=91-101&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.4000%2Frevus.1816&amp;rft.issn=1581-7652&amp;rft.aulast=Igli%C4%8Dar&amp;rft.aufirst=Albin&amp;rft_id=https%3A%2F%2Frevus.revues.org%2F1816%23abstract-1816-sl&amp;rfr_id=info%3Asid%2Fsl.wikipedia.org%3AUniverza+v+Ljubljani"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation Journal"> <a class="external text" href="https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Visoko-solstvo/Financiranje/Sklepi-o-dolocitvi-letnih-sredstev/Sklep-studijska_dej_2022_cistopis.pdf" rel="nofollow"><i>Sklep o določitvi letnih sredstev za financiranje študijske dejavnosti za leto 2022</i></a>. Ministrstvo RS za izobraževanje, znanost in šport. 21.6.2022<span class="printonly">. <a class="external free" href="https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Visoko-solstvo/Financiranje/Sklepi-o-dolocitvi-letnih-sredstev/Sklep-studijska_dej_2022_cistopis.pdf" rel="nofollow">https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Visoko-solstvo/Financiranje/Sklepi-o-dolocitvi-letnih-sredstev/Sklep-studijska_dej_2022_cistopis.pdf</a></span><span class="reference-accessdate">. Pridobljeno 16.6.2023</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sklep+o+dolo%C4%8Ditvi+letnih+sredstev+za+financiranje+%C5%A1tudijske+dejavnosti+za+leto+2022&amp;rft.date=21.6.2022&amp;rft.pub=Ministrstvo+RS+za+izobra%C5%BEevanje%2C+znanost+in+%C5%A1port&amp;rft_id=https%3A%2F%2Fwww.gov.si%2Fassets%2Fministrstva%2FMIZS%2FDokumenti%2FVisoko-solstvo%2FFinanciranje%2FSklepi-o-dolocitvi-letnih-sredstev%2FSklep-studijska_dej_2022_cistopis.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Univerza_v_Ljubljani"><span style="display: none;"> </span></span></span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading2"><h2 id="Glej_tudi">Glej tudi</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=9" title="Uredi razdelek: Glej tudi"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=9" title="Urejanje izvorne kode razdelka: Glej tudi"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Seznam_univerz_v_Sloveniji" title="Seznam univerz v Sloveniji">Seznam univerz v Sloveniji</a></li>
+<li><a class="new" href="/w/index.php?title=Seznam_univerz_po_dr%C5%BEavah&amp;action=edit&amp;redlink=1" title="Seznam univerz po državah (stran ne obstaja)">Seznam univerz po državah</a></li>
+<li><a href="/wiki/Seznam_rektorjev_Univerze_v_Ljubljani" title="Seznam rektorjev Univerze v Ljubljani">Seznam rektorjev Univerze v Ljubljani</a></li>
+<li><a href="/wiki/Seznam_zaslu%C5%BEnih_profesorjev_Univerze_v_Ljubljani" title="Seznam zaslužnih profesorjev Univerze v Ljubljani">Seznam zaslužnih profesorjev Univerze v Ljubljani</a></li>
+<li><a href="/wiki/Seznam_%C4%8Dastnih_senatorjev_Univerze_v_Ljubljani" title="Seznam častnih senatorjev Univerze v Ljubljani">Seznam častnih senatorjev Univerze v Ljubljani</a></li>
+<li><a href="/wiki/Seznam_%C4%8Dastnih_doktorjev_Univerze_v_Ljubljani" title="Seznam častnih doktorjev Univerze v Ljubljani">Seznam častnih doktorjev Univerze v Ljubljani</a></li>
+<li><a class="new" href="/w/index.php?title=Alumni_Univerze_v_Ljubljani&amp;action=edit&amp;redlink=1" title="Alumni Univerze v Ljubljani (stran ne obstaja)">Alumni Univerze v Ljubljani</a></li>
+<li><a href="/wiki/E-%C5%A1tudent" title="E-študent">E-študent</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Zunanje_povezave">Zunanje povezave</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Univerza_v_Ljubljani&amp;veaction=edit&amp;section=10" title="Uredi razdelek: Zunanje povezave"><span>uredi</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Univerza_v_Ljubljani&amp;action=edit&amp;section=10" title="Urejanje izvorne kode razdelka: Zunanje povezave"><span>uredi kodo</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r5916282">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box metadata side-box-right plainlinks"><style data-mw-deduplicate="TemplateStyles:r5911185">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></span></span></div>
+<div class="side-box-text plainlist">Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: <span style="font-weight: bold; font-style: italic;"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:University_of_Ljubljana" title="commons:Category:University of Ljubljana">Univerza v Ljubljani</a></span>.</div></div>
+</div>
+<ul><li><a class="external text" href="http://www.uni-lj.si/" rel="nofollow">Uradna spletna stran</a></li></ul>
+<div aria-labelledby="Univerze_v_Sloveniji" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><style data-mw-deduplicate="TemplateStyles:r5911192">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-prikaži"><a href="/wiki/Predloga:Univerze_v_Sloveniji" title="Predloga:Univerze v Sloveniji"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Prikaži to predlogo">p</abbr></a></li><li class="nv-pogovor"><a class="new" href="/w/index.php?title=Pogovor_o_predlogi:Univerze_v_Sloveniji&amp;action=edit&amp;redlink=1" title="Pogovor o predlogi:Univerze v Sloveniji (stran ne obstaja)"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Pogovor o tej predlogi">p</abbr></a></li><li class="nv-uredi"><a class="external text" href="https://sl.wikipedia.org/w/index.php?title=Predloga:Univerze_v_Sloveniji&amp;action=edit"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Uredi to predlogo">u</abbr></a></li></ul></div><div id="Univerze_v_Sloveniji" style="font-size:114%;margin:0 4em"><a href="/wiki/Seznam_univerz_v_Sloveniji" title="Seznam univerz v Sloveniji">Univerze v Sloveniji</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Javne</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="mw-selflink selflink">Univerza v Ljubljani</a> • <a href="/wiki/Univerza_v_Mariboru" title="Univerza v Mariboru">Univerza v Mariboru</a> • <a href="/wiki/Univerza_na_Primorskem" title="Univerza na Primorskem">Univerza na Primorskem</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Zasebne</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Nova_univerza" title="Nova univerza">Nova univerza</a> • <a href="/wiki/Univerza_v_Novi_Gorici" title="Univerza v Novi Gorici">Univerza v Novi Gorici</a> • <a href="/wiki/Univerza_v_Novem_mestu" title="Univerza v Novem mestu">Univerza v Novem mestu</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">V nastajanju</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="new" href="/w/index.php?title=Slovenska_katoli%C5%A1ka_univerza&amp;action=edit&amp;redlink=1" title="Slovenska katoliška univerza (stran ne obstaja)">Slovenska katoliška univerza</a> • <a href="/wiki/Univerzitetno_in_raziskovalno_sredi%C5%A1%C4%8De_Novo_mesto" title="Univerzitetno in raziskovalno središče Novo mesto">Univerzitetno in raziskovalno središče Novo mesto</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mednarodne</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Evro-sredozemska_univerza" title="Evro-sredozemska univerza">Evro-sredozemska univerza</a></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Izobra%C5%BEevanje" title="Izobraževanje">Izobraževanje</a> • <a class="new" href="/w/index.php?title=%C5%A0olstvo_v_Sloveniji&amp;action=edit&amp;redlink=1" title="Šolstvo v Sloveniji (stran ne obstaja)">Šolstvo v Sloveniji</a> • <a class="new" href="/w/index.php?title=Seznam_univerz&amp;action=edit&amp;redlink=1" title="Seznam univerz (stran ne obstaja)">Seznam univerz</a> • <a href="/wiki/Univerza" title="Univerza">Univerza</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Univerza_v_Ljubljani" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><link href="mw-data:TemplateStyles:r5911192" rel="mw-deduplicated-inline-style"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-prikaži"><a href="/wiki/Predloga:Uni_LJ" title="Predloga:Uni LJ"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Prikaži to predlogo">p</abbr></a></li><li class="nv-pogovor"><a class="new" href="/w/index.php?title=Pogovor_o_predlogi:Uni_LJ&amp;action=edit&amp;redlink=1" title="Pogovor o predlogi:Uni LJ (stran ne obstaja)"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Pogovor o tej predlogi">p</abbr></a></li><li class="nv-uredi"><a class="external text" href="https://sl.wikipedia.org/w/index.php?title=Predloga:Uni_LJ&amp;action=edit"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Uredi to predlogo">u</abbr></a></li></ul></div><div id="Univerza_v_Ljubljani" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Univerza v Ljubljani</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Akademije</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akademija_za_glasbo_v_Ljubljani" title="Akademija za glasbo v Ljubljani">Akademija za glasbo</a></li>
+<li><a href="/wiki/Akademija_za_gledali%C5%A1%C4%8De,_radio,_film_in_televizijo_v_Ljubljani" title="Akademija za gledališče, radio, film in televizijo v Ljubljani">Akademija za gledališče, radio, film in televizijo</a></li>
+<li><a href="/wiki/Akademija_za_likovno_umetnost_in_oblikovanje_v_Ljubljani" title="Akademija za likovno umetnost in oblikovanje v Ljubljani">Akademija za likovno umetnost in oblikovanje</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fakultete</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biotehni%C5%A1ka_fakulteta_v_Ljubljani" title="Biotehniška fakulteta v Ljubljani">Biotehniška fakulteta</a></li>
+<li><a href="/wiki/Ekonomska_fakulteta_v_Ljubljani" title="Ekonomska fakulteta v Ljubljani">Ekonomska fakulteta</a></li>
+<li><a href="/wiki/Fakulteta_za_arhitekturo_v_Ljubljani" title="Fakulteta za arhitekturo v Ljubljani">Fakulteta za arhitekturo</a></li>
+<li><a href="/wiki/Fakulteta_za_dru%C5%BEbene_vede_v_Ljubljani" title="Fakulteta za družbene vede v Ljubljani">Fakulteta za družbene vede</a></li>
+<li><a href="/wiki/Fakulteta_za_elektrotehniko_v_Ljubljani" title="Fakulteta za elektrotehniko v Ljubljani">Fakulteta za elektrotehniko</a></li>
+<li><a href="/wiki/Fakulteta_za_farmacijo_v_Ljubljani" title="Fakulteta za farmacijo v Ljubljani">Fakulteta za farmacijo</a></li>
+<li><a href="/wiki/Fakulteta_za_gradbeni%C5%A1tvo_in_geodezijo_v_Ljubljani" title="Fakulteta za gradbeništvo in geodezijo v Ljubljani">Fakulteta za gradbeništvo in geodezijo</a></li>
+<li><a href="/wiki/Fakulteta_za_kemijo_in_kemijsko_tehnologijo_v_Ljubljani" title="Fakulteta za kemijo in kemijsko tehnologijo v Ljubljani">Fakulteta za kemijo in kemijsko tehnologijo</a></li>
+<li><a href="/wiki/Fakulteta_za_matematiko_in_fiziko_v_Ljubljani" title="Fakulteta za matematiko in fiziko v Ljubljani">Fakulteta za matematiko in fiziko</a></li>
+<li><a href="/wiki/Fakulteta_za_pomorstvo_in_promet" title="Fakulteta za pomorstvo in promet">Fakulteta za pomorstvo in promet</a></li>
+<li><a href="/wiki/Fakulteta_za_ra%C4%8Dunalni%C5%A1tvo_in_informatiko_v_Ljubljani" title="Fakulteta za računalništvo in informatiko v Ljubljani">Fakulteta za računalništvo in informatiko</a></li>
+<li><a href="/wiki/Fakulteta_za_socialno_delo_v_Ljubljani" title="Fakulteta za socialno delo v Ljubljani">Fakulteta za socialno delo</a></li>
+<li><a href="/wiki/Fakulteta_za_strojni%C5%A1tvo_v_Ljubljani" title="Fakulteta za strojništvo v Ljubljani">Fakulteta za strojništvo</a></li>
+<li><a href="/wiki/Fakulteta_za_%C5%A1port_v_Ljubljani" title="Fakulteta za šport v Ljubljani">Fakulteta za šport</a></li>
+<li><a href="/wiki/Fakulteta_za_upravo_v_Ljubljani" title="Fakulteta za upravo v Ljubljani">Fakulteta za upravo</a></li>
+<li><a href="/wiki/Filozofska_fakulteta_v_Ljubljani" title="Filozofska fakulteta v Ljubljani">Filozofska fakulteta</a></li>
+<li><a class="mw-redirect" href="/wiki/Medicinska_fakulteta_v_Ljubljani" title="Medicinska fakulteta v Ljubljani">Medicinska fakulteta</a></li>
+<li><a href="/wiki/Naravoslovnotehni%C5%A1ka_fakulteta_v_Ljubljani" title="Naravoslovnotehniška fakulteta v Ljubljani">Naravoslovnotehniška fakulteta</a></li>
+<li><a href="/wiki/Pedago%C5%A1ka_fakulteta_v_Ljubljani" title="Pedagoška fakulteta v Ljubljani">Pedagoška fakulteta</a></li>
+<li><a href="/wiki/Pravna_fakulteta_v_Ljubljani" title="Pravna fakulteta v Ljubljani">Pravna fakulteta</a></li>
+<li><a href="/wiki/Teolo%C5%A1ka_fakulteta_v_Ljubljani" title="Teološka fakulteta v Ljubljani">Teološka fakulteta</a></li>
+<li><a href="/wiki/Veterinarska_fakulteta_v_Ljubljani" title="Veterinarska fakulteta v Ljubljani">Veterinarska fakulteta</a></li>
+<li><a href="/wiki/Zdravstvena_fakulteta_v_Ljubljani" title="Zdravstvena fakulteta v Ljubljani">Zdravstvena fakulteta</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Nekdanje članice</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agronomska_fakulteta_v_Ljubljani" title="Agronomska fakulteta v Ljubljani">Agronomska fakulteta</a> <span style="font-size:85%;">(1947–1949)</span></li>
+<li><a href="/wiki/Agronomska_in_gozdarska_fakulteta_v_Ljubljani" title="Agronomska in gozdarska fakulteta v Ljubljani">Agronomska in gozdarska fakulteta</a> <span style="font-size:85%;">(1949–1956)</span></li>
+<li><a href="/wiki/Fakulteta_za_agronomijo,_gozdarstvo_in_veterinarstvo_v_Ljubljani" title="Fakulteta za agronomijo, gozdarstvo in veterinarstvo v Ljubljani">Fakulteta za agronomijo, gozdarstvo in veterinarstvo</a> <span style="font-size:85%;">(1956–1961)</span></li>
+<li><a href="/wiki/Fakulteta_za_naravoslovje_in_tehnologijo_v_Ljubljani" title="Fakulteta za naravoslovje in tehnologijo v Ljubljani">Fakulteta za naravoslovje in tehnologijo</a> <span style="font-size:85%;">(1960–1994)</span></li>
+<li><a href="/wiki/Fakulteta_za_rudarstvo,_metalurgijo_in_kemijsko_tehnologijo_v_Ljubljani" title="Fakulteta za rudarstvo, metalurgijo in kemijsko tehnologijo v Ljubljani">Fakulteta za rudarstvo, metalurgijo in kemijsko tehnologijo</a> <span style="font-size:85%;">(?–1960)</span></li>
+<li><a href="/wiki/Fakulteta_za_splo%C5%A1no_medicino_v_Ljubljani" title="Fakulteta za splošno medicino v Ljubljani">Fakulteta za splošno medicino</a> <span style="font-size:85%;">(1950–1954)</span></li>
+<li><a href="/wiki/Fakulteta_za_sociologijo,_politi%C4%8Dne_vede_in_novinarstvo_v_Ljubljani" title="Fakulteta za sociologijo, politične vede in novinarstvo v Ljubljani">Fakulteto za sociologijo, politične vede in novinarstvo</a> <span style="font-size:85%;">(1970–1991)</span></li>
+<li><a href="/wiki/Fakulteta_za_elektrotehniko_in_ra%C4%8Dunalni%C5%A1tvo_v_Ljubljani" title="Fakulteta za elektrotehniko in računalništvo v Ljubljani">Fakulteta za elektrotehniko in računalništvo</a> <span style="font-size:85%;">(1989–1996)</span></li>
+<li><a href="/wiki/Fakulteta_za_elektrotehniko_in_strojni%C5%A1tvo_v_Ljubljani" title="Fakulteta za elektrotehniko in strojništvo v Ljubljani">Fakulteta za elektrotehniko in strojništvo</a> <span style="font-size:85%;">(1957–1960)</span></li>
+<li><a href="/wiki/Naravoslovna_fakulteta_v_Ljubljani" title="Naravoslovna fakulteta v Ljubljani">Naravoslovna fakulteta</a> <span style="font-size:85%;">(1957–?)</span></li>
+<li><a href="/wiki/Pravno-ekonomska_fakulteta_v_Ljubljani" title="Pravno-ekonomska fakulteta v Ljubljani">Pravno-ekonomska fakulteta</a> <span style="font-size:85%;">(1954–1957)</span></li>
+<li><a href="/wiki/Prirodoslovna_matemati%C4%8Dna_fakulteta_v_Ljubljani" title="Prirodoslovna matematična fakulteta v Ljubljani">Prirodoslovna matematična fakulteta</a> <span style="font-size:85%;">(1949–1957)</span></li>
+<li><a href="/wiki/Prirodoslovno-matemati%C4%8Dno-filozofska_fakulteta_v_Ljubljani" title="Prirodoslovno-matematično-filozofska fakulteta v Ljubljani">Prirodoslovno-matematično-filozofska fakulteta</a> <span style="font-size:85%;">(1954–1958)</span></li>
+<li><a href="/wiki/Stomatolo%C5%A1ka_fakulteta_v_Ljubljani" title="Stomatološka fakulteta v Ljubljani">Stomatološka fakulteta</a> <span style="font-size:85%;">(1950–1954)</span></li>
+<li><a href="/wiki/Tehni%C5%A1ka_fakulteta_v_Ljubljani" title="Tehniška fakulteta v Ljubljani">Tehniška fakulteta</a> <span style="font-size:85%;">(1919–1950 in 1954–1957)</span></li>
+<li><a href="/wiki/Visoka_%C5%A1ola_za_zdravstvo_v_Ljubljani" title="Visoka šola za zdravstvo v Ljubljani">Visoka šola za zdravstvo</a> <span style="font-size:85%;">(1993–2009)</span></li>
+<li><a class="new" href="/w/index.php?title=Vi%C5%A1ja_%C5%A1ola_za_zdravstvene_delavce_v_Ljubljani&amp;action=edit&amp;redlink=1" title="Višja šola za zdravstvene delavce v Ljubljani (stran ne obstaja)">Višja šola za zdravstvene delavce</a> <span style="font-size:85%;">(1975–1993)</span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Druge ustanove</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Centralna_tehni%C5%A1ka_knji%C5%BEnica_Univerze_v_Ljubljani" title="Centralna tehniška knjižnica Univerze v Ljubljani">Centralna tehniška knjižnica</a></li>
+<li><a href="/wiki/Narodna_in_univerzitetna_knji%C5%BEnica" title="Narodna in univerzitetna knjižnica">Narodna in univerzitetna knjižnica</a></li>
+<li><a class="new" href="/w/index.php?title=Ra%C4%8Dunalni%C5%A1ki_center_Univerze_v_Ljubljani&amp;action=edit&amp;redlink=1" title="Računalniški center Univerze v Ljubljani (stran ne obstaja)">Računalniški center</a></li>
+<li><a class="new" href="/w/index.php?title=Zgodovinski_arhiv_in_muzej_Univerze_v_Ljubljani&amp;action=edit&amp;redlink=1" title="Zgodovinski arhiv in muzej Univerze v Ljubljani (stran ne obstaja)">Zgodovinski arhiv in muzej</a></li>
+<li><a href="/wiki/Digitalna_knji%C5%BEnica_Univerze_v_Ljubljani" title="Digitalna knjižnica Univerze v Ljubljani">Digitalna knjižnica</a></li>
+<li><a href="/wiki/Botani%C4%8Dni_vrt_Univerze_v_Ljubljani" title="Botanični vrt Univerze v Ljubljani">Botanični vrt</a></li>
+<li><a href="/wiki/Nacionalni_in%C5%A1titut_za_biologijo" title="Nacionalni inštitut za biologijo">Nacionalni inštitut za biologijo</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ljudje</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Seznam_rektorjev_Univerze_v_Ljubljani" title="Seznam rektorjev Univerze v Ljubljani">Rektorji</a></li>
+<li><a href="/wiki/Seznam_zaslu%C5%BEnih_profesorjev_Univerze_v_Ljubljani" title="Seznam zaslužnih profesorjev Univerze v Ljubljani">Zaslužni profesorji</a></li>
+<li><a href="/wiki/Seznam_%C4%8Dastnih_senatorjev_Univerze_v_Ljubljani" title="Seznam častnih senatorjev Univerze v Ljubljani">Častni senatorji</a></li>
+<li><a href="/wiki/Seznam_%C4%8Dastnih_doktorjev_Univerze_v_Ljubljani" title="Seznam častnih doktorjev Univerze v Ljubljani">Častni doktorji</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Seznam_univerz_v_Sloveniji" title="Seznam univerz v Sloveniji">Univerze v Sloveniji</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="38px_Ljubljana" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><link href="mw-data:TemplateStyles:r5911192" rel="mw-deduplicated-inline-style"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-prikaži"><a href="/wiki/Predloga:Ljubljana" title="Predloga:Ljubljana"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Prikaži to predlogo">p</abbr></a></li><li class="nv-pogovor"><a href="/wiki/Pogovor_o_predlogi:Ljubljana" title="Pogovor o predlogi:Ljubljana"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Pogovor o tej predlogi">p</abbr></a></li><li class="nv-uredi"><a class="external text" href="https://sl.wikipedia.org/w/index.php?title=Predloga:Ljubljana&amp;action=edit"><abbr style=";;background:none transparent;color:inherit;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Uredi to predlogo">u</abbr></a></li></ul></div><div id="38px_Ljubljana" style="font-size:114%;margin:0 4em"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/Slika:Flag_of_Ljubljana.svg"><img class="mw-file-element" data-file-height="480" data-file-width="1200" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Ljubljana.svg/38px-Flag_of_Ljubljana.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Ljubljana.svg/57px-Flag_of_Ljubljana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Ljubljana.svg/76px-Flag_of_Ljubljana.svg.png 2x" width="38"/></a></span> <a href="/wiki/Ljubljana" title="Ljubljana">Ljubljana</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/%C4%8Cetrtna_skupnost_Ljubljane" title="Četrtna skupnost Ljubljane">Četrtne skupnosti</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C4%8Cetrtna_skupnost_Be%C5%BEigrad" title="Četrtna skupnost Bežigrad">Bežigrad</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Center" title="Četrtna skupnost Center">Center</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_%C4%8Crnu%C4%8De" title="Četrtna skupnost Črnuče">Črnuče</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Dravlje" title="Četrtna skupnost Dravlje">Dravlje</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Golovec" title="Četrtna skupnost Golovec">Golovec</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Jar%C5%A1e" title="Četrtna skupnost Jarše">Jarše</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Moste" title="Četrtna skupnost Moste">Moste</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Polje" title="Četrtna skupnost Polje">Polje</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Posavje" title="Četrtna skupnost Posavje">Posavje</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Ro%C5%BEnik" title="Četrtna skupnost Rožnik">Rožnik</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Rudnik" title="Četrtna skupnost Rudnik">Rudnik</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Sostro" title="Četrtna skupnost Sostro">Sostro</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_%C5%A0entvid" title="Četrtna skupnost Šentvid">Šentvid</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_%C5%A0i%C5%A1ka" title="Četrtna skupnost Šiška">Šiška</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_%C5%A0marna_gora" title="Četrtna skupnost Šmarna gora">Šmarna gora</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Trnovo" title="Četrtna skupnost Trnovo">Trnovo</a></li>
+<li><a href="/wiki/%C4%8Cetrtna_skupnost_Vi%C4%8D" title="Četrtna skupnost Vič">Vič</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Znamenitosti</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Argentinski_park,_Ljubljana" title="Argentinski park, Ljubljana">Argentinski park</a></li>
+<li><a href="/wiki/Botani%C4%8Dni_vrt_Univerze_v_Ljubljani" title="Botanični vrt Univerze v Ljubljani">Botanični vrt</a></li>
+<li><a href="/wiki/Kongresni_trg" title="Kongresni trg">Kongresni trg</a></li>
+<li><a href="/wiki/%C4%8Copova_ulica,_Ljubljana" title="Čopova ulica, Ljubljana">Čopova ulica</a></li>
+<li><a href="/wiki/Gospodarsko_razstavi%C5%A1%C4%8De,_Ljubljana" title="Gospodarsko razstavišče, Ljubljana">Gospodarsko razstavišče</a></li>
+<li><a href="/wiki/Ljubljanska_borza" title="Ljubljanska borza">Borza</a></li>
+<li><a href="/wiki/Mestna_hi%C5%A1a,_Ljubljana" title="Mestna hiša, Ljubljana">Mestna hiša</a></li>
+<li><a href="/wiki/Ljubljanica" title="Ljubljanica">Ljubljanica</a></li>
+<li><a href="/wiki/Univerzitetni_klini%C4%8Dni_center_Ljubljana" title="Univerzitetni klinični center Ljubljana">Univerzitetni klinični center</a></li>
+<li><a href="/wiki/Spomenik_Rudolfu_Maistru,_Ljubljana" title="Spomenik Rudolfu Maistru, Ljubljana">Maistrov spomenik</a></li>
+<li><a href="/wiki/Mestni_trg" title="Mestni trg">Mestni trg</a></li>
+<li><a href="/wiki/Neboti%C4%8Dnik,_Ljubljana" title="Nebotičnik, Ljubljana">Nebotičnik</a></li>
+<li><a href="/wiki/Predsedni%C5%A1ka_pala%C4%8Da,_Ljubljana" title="Predsedniška palača, Ljubljana">Predsedniška palača</a></li>
+<li><a href="/wiki/Pre%C5%A1ernov_trg,_Ljubljana" title="Prešernov trg, Ljubljana">Prešernov trg</a></li>
+<li><a href="/wiki/Pre%C5%A1ernov_spomenik,_Ljubljana" title="Prešernov spomenik, Ljubljana">Prešernov spomenik</a></li>
+<li><a href="/wiki/%C4%8Cevljarski_most" title="Čevljarski most">Čevljarski most</a></li>
+<li><a href="/wiki/Mesarski_most,_Ljubljana" title="Mesarski most, Ljubljana">Mesarski most</a></li>
+<li><a href="/wiki/Tromostovje" title="Tromostovje">Tromostovje</a></li>
+<li><a href="/wiki/Vodnikov_spomenik" title="Vodnikov spomenik">Vodnikov spomenik</a></li>
+<li><a href="/wiki/Zmajski_most" title="Zmajski most">Zmajski most</a></li>
+<li><a href="/wiki/Zapornica_na_Ljubljanici" title="Zapornica na Ljubljanici">Zapornica na Ljubljanici</a></li>
+<li><a href="/wiki/Robbov_vodnjak" title="Robbov vodnjak">Robbov vodnjak</a></li>
+<li><a href="/wiki/Stavba_Dr%C5%BEavnega_zbora_Republike_Slovenije" title="Stavba Državnega zbora Republike Slovenije">Slovenski parlament</a></li>
+<li><a href="/wiki/Park_Tivoli,_Ljubljana" title="Park Tivoli, Ljubljana">Park Tivoli</a></li>
+<li><a href="/wiki/Vodnikov_trg,_Ljubljana" title="Vodnikov trg, Ljubljana">Vodnikov trg</a></li>
+<li><a href="/wiki/Navje" title="Navje">Navje</a></li>
+<li><a href="/wiki/Centralno_pokopali%C5%A1%C4%8De_%C5%BDale" title="Centralno pokopališče Žale">Žale</a></li>
+<li><a href="/wiki/%C5%BDivalski_vrt_Ljubljana" title="Živalski vrt Ljubljana">Živalski vrt</a></li>
+<li><a href="/wiki/Hradeckega_most" title="Hradeckega most">Hradeckega most</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Seznam_zgradb_in_objektov_v_Ljubljani" title="Seznam zgradb in objektov v Ljubljani">Gradovi in palače</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ljubljanski_grad" title="Ljubljanski grad">Ljubljanski grad</a></li>
+<li><a href="/wiki/Grad_Fu%C5%BEine" title="Grad Fužine">Grad Fužine</a></li>
+<li><a href="/wiki/Cekinov_grad" title="Cekinov grad">Cekinov grad</a></li>
+<li><a href="/wiki/Kresija,_Ljubljana" title="Kresija, Ljubljana">Kresija</a></li>
+<li><a href="/wiki/Grand_hotel_Union" title="Grand hotel Union">Grand hotel Union</a></li>
+<li><a href="/wiki/Centralna_lekarna,_Ljubljana" title="Centralna lekarna, Ljubljana">Centralna lekarna</a></li>
+<li><a href="/wiki/Mladika_(stavbni_kompleks)" title="Mladika (stavbni kompleks)">Mladika</a></li>
+<li><a href="/wiki/Gruberjeva_pala%C4%8Da" title="Gruberjeva palača">Gruberjeva palača</a></li>
+<li><a href="/wiki/Filipov_dvorec" title="Filipov dvorec">Filipov dvorec</a></li>
+<li><a href="/wiki/Sodna_pala%C4%8Da,_Ljubljana" title="Sodna palača, Ljubljana">Sodna palača</a></li>
+<li><a href="/wiki/Souvanova_hi%C5%A1a" title="Souvanova hiša">Souvanova hiša</a></li>
+<li><a href="/wiki/Dvorec_Selo,_Ljubljana" title="Dvorec Selo, Ljubljana">Dvorec Selo</a></li>
+<li><a href="/wiki/Sti%C5%A1ki_dvorec,_Ljubljana" title="Stiški dvorec, Ljubljana">Stiški dvorec</a></li>
+<li><a href="/wiki/Grad_Tivoli" title="Grad Tivoli">Grad Tivoli</a></li>
+<li><a href="/wiki/Zoisova_pala%C4%8Da" title="Zoisova palača">Zoisova palača</a></li>
+<li><a href="/wiki/NAMA" title="NAMA">NAMA</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Verski objekti</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Stolnica_sv._Nikolaja,_Ljubljana" title="Stolnica sv. Nikolaja, Ljubljana">Stolnica sv. Nikolaja</a></li>
+<li><a href="/wiki/Cerkev_sv._Petra,_Ljubljana" title="Cerkev sv. Petra, Ljubljana">Cerkev sv. Petra</a></li>
+<li><a href="/wiki/Cerkev_Marijinega_oznanjenja,_Ljubljana" title="Cerkev Marijinega oznanjenja, Ljubljana">Cerkev Marijinega oznanjenja</a></li>
+<li><a href="/wiki/Cerkev_svete_Trojice,_Ljubljana" title="Cerkev svete Trojice, Ljubljana">Cerkev sv. Trojice</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/%C5%BDupnijska_cerkev_sv._Jakoba,_Ljubljana" title="Župnijska cerkev sv. Jakoba, Ljubljana">Cerkev sv. Jakoba</a></li>
+<li><a href="/wiki/Cerkev_sv._Fran%C4%8Di%C5%A1ka_Asi%C5%A1kega,_Ljubljana" title="Cerkev sv. Frančiška Asiškega, Ljubljana">Cerkev sv. Frančiška Asiškega</a></li>
+<li><a href="/wiki/Cerkev_sv._Cirila_in_Metoda,_Ljubljana_(Be%C5%BEigrad)" title="Cerkev sv. Cirila in Metoda, Ljubljana (Bežigrad)">Cerkev sv. Cirila in Metoda, Bežigrad</a></li>
+<li><a href="/wiki/Pravoslavna_cerkev_sv._Cirila_in_Metoda,_Ljubljana" title="Pravoslavna cerkev sv. Cirila in Metoda, Ljubljana">Pravoslavna cerkev sv. Cirila in Metoda</a></li>
+<li><a href="/wiki/D%C5%BEamija_v_Ljubljani" title="Džamija v Ljubljani">Džamija</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Umetnost in kultura</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Narodni_muzej_Slovenije" title="Narodni muzej Slovenije">Narodni muzej</a></li>
+<li><a href="/wiki/Narodna_galerija_Slovenije" title="Narodna galerija Slovenije">Narodna galerija</a></li>
+<li><a href="/wiki/Narodna_in_univerzitetna_knji%C5%BEnica" title="Narodna in univerzitetna knjižnica">Narodna in univerzitetna knjižnica</a></li>
+<li><a href="/wiki/Mestna_knji%C5%BEnica_Ljubljana" title="Mestna knjižnica Ljubljana">Mestna knjižnica Ljubljana</a></li>
+<li><a href="/wiki/Ljubljanska_opera" title="Ljubljanska opera">Ljubljanska opera</a></li>
+<li><a href="/wiki/Slovenska_filharmonija" title="Slovenska filharmonija">Slovenska filharmonija</a></li>
+<li><a href="/wiki/Cankarjev_dom" title="Cankarjev dom">Cankarjev dom</a></li>
+<li><a href="/wiki/Kri%C5%BEanke" title="Križanke">Križanke</a></li>
+<li><a href="/wiki/Festival_Ljubljana" title="Festival Ljubljana">Festival Ljubljana</a></li>
+<li><a href="/wiki/Ljubljanski_mednarodni_filmski_festival" title="Ljubljanski mednarodni filmski festival">Ljubljanski mednarodni filmski festival</a></li>
+<li><a href="/wiki/AKC_Metelkova_mesto" title="AKC Metelkova mesto">Metelkova</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Znanost in<br/>izobraževanje</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Univerza v Ljubljani</a></li>
+<li><a href="/wiki/Slovenska_akademija_znanosti_in_umetnosti" title="Slovenska akademija znanosti in umetnosti">Slovenska akademija znanosti in umetnosti</a></li>
+<li><a href="/wiki/Znanstvenoraziskovalni_center_Slovenske_akademije_znanosti_in_umetnosti" title="Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti">Znanstvenoraziskovalni center SAZU</a></li>
+<li><a class="mw-redirect" href="/wiki/Institut_%22Jo%C5%BEef_Stefan%22" title='Institut "Jožef Stefan"'>Institut "Jožef Stefan"</a></li>
+<li><a href="/wiki/Kemijski_in%C5%A1titut" title="Kemijski inštitut">Kemijski inštitut</a></li>
+<li><a href="/wiki/Nacionalni_in%C5%A1titut_za_biologijo" title="Nacionalni inštitut za biologijo">Nacionalni inštitut za biologijo</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Šport</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ljubljanski_maraton" title="Ljubljanski maraton">Ljubljanski maraton</a></li>
+<li><a href="/wiki/Gimnasti%C4%8Dni_center_Ljubljana" title="Gimnastični center Ljubljana">Gimnastični center</a></li>
+<li><a href="/wiki/HK_Olimpija_(2004)" title="HK Olimpija (2004)">HK Olimpija</a></li>
+<li><a href="/wiki/Nogometni_klub_Olimpija_(2005)" title="Nogometni klub Olimpija (2005)">NK Olimpija</a></li>
+<li><a href="/wiki/KK_Cedevita_Olimpija" title="KK Cedevita Olimpija">KK Cedevita Olimpija</a></li>
+<li><a href="/wiki/Hala_Tivoli" title="Hala Tivoli">Hala Tivoli</a></li>
+<li><a href="/wiki/%C5%A0portni_park_Sto%C5%BEice" title="Športni park Stožice">Športni park Stožice</a></li>
+<li><a href="/wiki/Tacenski_kajaka%C5%A1ki_poligon" title="Tacenski kajakaški poligon">Tacenski kajakaški poligon</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ljudje</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Seznam_%C4%8Dastnih_me%C5%A1%C4%8Danov_Ljubljane" title="Seznam častnih meščanov Ljubljane">Častni meščani</a></li>
+<li><a href="/wiki/Kategorija:Ljubljan%C4%8Dani" title="Kategorija:Ljubljančani">Ljubljančani</a></li>
+<li><a href="/wiki/Seznam_%C5%BEupanov_Mestne_ob%C4%8Dine_Ljubljana" title="Seznam županov Mestne občine Ljubljana">Župani Ljubljane</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Transport in<br/>infrastruktura</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avtobusna_postaja_Ljubljana" title="Avtobusna postaja Ljubljana">Avtobusna postaja Ljubljana</a></li>
+<li><a href="/wiki/Emonika" title="Emonika">Emonika</a></li>
+<li><a href="/wiki/Energetika_Ljubljana" title="Energetika Ljubljana">Energetika Ljubljana</a></li>
+<li><a href="/wiki/Ljubljanska_parkiri%C5%A1%C4%8Da_in_tr%C5%BEnice" title="Ljubljanska parkirišča in tržnice">Ljubljanska parkirišča in tržnice</a> - <a href="/wiki/Ljubljanska_vzpenja%C4%8Da" title="Ljubljanska vzpenjača">Ljubljanska vzpenjača</a></li>
+<li><a href="/wiki/Ljubljanski_potni%C5%A1ki_promet" title="Ljubljanski potniški promet">Ljubljanski potniški promet</a></li>
+<li><a href="/wiki/Snaga_Javno_podjetje" title="Snaga Javno podjetje">Snaga Javno podjetje</a></li>
+<li><a href="/wiki/Vodovod_%E2%80%93_Kanalizacija" title="Vodovod – Kanalizacija">Vodovod – Kanalizacija</a></li>
+<li><a href="/wiki/%C5%BDale_Javno_podjetje" title="Žale Javno podjetje">Žale Javno podjetje</a></li>
+<li><a href="/wiki/%C5%BDelezni%C5%A1ka_postaja_Ljubljana" title="Železniška postaja Ljubljana">Železniška postaja Ljubljana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Normativna_kontrola_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Uredite_to_na_Wikipodatkih&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1377#identifiers&amp;#124;class=noprint&amp;#124;Uredite_to_na_Wikipodatkih" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Normativna_kontrola_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Uredite_to_na_Wikipodatkih&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1377#identifiers&amp;#124;class=noprint&amp;#124;Uredite_to_na_Wikipodatkih" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedija:Normativna_kontrola" title="Wikipedija:Normativna kontrola">Normativna kontrola</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q1377#identifiers" title="Uredite to na Wikipodatkih"><img alt="Uredite to na Wikipodatkih" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="10"/></a></span></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Splošno</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/ISNI_(identifikator)" title="ISNI (identifikator)">ISNI</a>
+<ul><li><span class="uid"><a class="external text" href="https://isni.org/isni/0000000107216013" rel="nofollow">1</a></span></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/VIAF_(identifikator)" title="VIAF (identifikator)">VIAF</a>
+<ul><li><span class="uid"><a class="external text" href="https://viaf.org/viaf/144834915" rel="nofollow">1</a></span></li>
+<li><span class="uid"><a class="external text" href="https://viaf.org/viaf/133686387" rel="nofollow">2</a></span></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/CONOR_(identifikator)" title="CONOR (identifikator)">CONOR (Slovenija)</a>
+<ul><li><span class="uid"><a class="external text" href="https://plus.cobiss.net/cobiss/si/sl/conor/289533027" rel="nofollow">1</a></span></li>
+<li><span class="uid"><a class="external text" href="https://plus.cobiss.net/cobiss/si/sl/conor/318248547" rel="nofollow">2</a></span></li>
+<li><span class="uid"><a class="external text" href="https://plus.cobiss.net/cobiss/si/sl/conor/289534051" rel="nofollow">3</a></span></li></ul></li>
+<li><span class="nowrap"><a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/144834915" rel="nofollow">WorldCat (via VIAF)</a></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Narodne knjižnice</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="uid"><a class="external text" href="https://d-nb.info/gnd/36920-2" rel="nofollow">Nemčija</a></span></li>
+<li><span class="uid"><a class="external text" href="https://opac.sbn.it/nome/VEAV012537" rel="nofollow">Italija</a></span></li>
+<li><span class="uid"><a class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007508137005171" rel="nofollow">Izrael</a></span></li>
+<li><span class="uid"><a class="external text" href="https://id.loc.gov/authorities/names/n80038001" rel="nofollow">ZDA</a></span></li>
+<li><span class="uid"><a class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ko2005310160&amp;CON_LNG=ENG" rel="nofollow">Češka republika</a></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Drugo</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="uid"><a class="external text" href="http://id.worldcat.org/fast/542748/" rel="nofollow">Faceted Application of Subject Terminology</a></span></li>
+<li><a class="mw-redirect" href="/wiki/SUDOC_(identifikator)" title="SUDOC (identifikator)">SUDOC (Francija)</a>
+<ul><li><span class="uid"><a class="external text" href="https://www.idref.fr/02804228X" rel="nofollow">1</a></span></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Trove_(identifikator)" title="Trove (identifikator)">Trove (Avstralija)</a>
+<ul><li><span class="uid"><a class="external text" href="https://trove.nla.gov.au/people/906460" rel="nofollow">1</a></span></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐565f7d7996‐zdkgx
+Cached time: 20241031090620
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.696 seconds
+Real time usage: 0.946 seconds
+Preprocessor visited node count: 3048/1000000
+Post‐expand include size: 111632/2097152 bytes
+Template argument size: 9128/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 13/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 46023/5000000 bytes
+Lua time usage: 0.435/10.000 seconds
+Lua memory usage: 23183444/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  826.555      1 -total
+ 34.76%  287.320      1 Predloga:Infopolje_Univerza
+ 33.93%  280.477      1 Predloga:Infopolje
+ 26.66%  220.375      1 Predloga:Opombe
+ 23.76%  196.355      2 Predloga:Jezik-la
+ 12.90%  106.636      7 Predloga:Navedi_splet
+ 12.50%  103.325      1 Predloga:Kategorija_v_Zbirki
+ 12.23%  101.123      1 Predloga:Sister_project
+ 11.86%   98.026      1 Predloga:Side_box
+  9.26%   76.520      1 Predloga:Razširi_razdelek
+-->
+<!-- Saved in parser cache with key slwiki:pcache:idhash:8490-0!canonical and timestamp 20241031090620 and revision id 6291237. Rendering was triggered because: page-view
+ -->
+</meta></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" width="1"/></noscript>
+<div class="printfooter" data-nosnippet="">Pridobljeno iz »<a dir="ltr" href="https://sl.wikipedia.org/w/index.php?title=Univerza_v_Ljubljani&amp;oldid=6291237">https://sl.wikipedia.org/w/index.php?title=Univerza_v_Ljubljani&amp;oldid=6291237</a>«</div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Posebno:Kategorije" title="Posebno:Kategorije">Kategorije</a>: <ul><li><a href="/wiki/Kategorija:Izobra%C5%BEevalno-raziskovalne_ustanove_v_Ljubljani" title="Kategorija:Izobraževalno-raziskovalne ustanove v Ljubljani">Izobraževalno-raziskovalne ustanove v Ljubljani</a></li><li><a href="/wiki/Kategorija:Univerze_v_Sloveniji" title="Kategorija:Univerze v Sloveniji">Univerze v Sloveniji</a></li><li><a href="/wiki/Kategorija:Izobra%C5%BEevalno-raziskovalne_ustanove,_ustanovljene_leta_1919" title="Kategorija:Izobraževalno-raziskovalne ustanove, ustanovljene leta 1919">Izobraževalno-raziskovalne ustanove, ustanovljene leta 1919</a></li><li><a href="/wiki/Kategorija:Univerza_v_Ljubljani" title="Kategorija:Univerza v Ljubljani">Univerza v Ljubljani</a></li><li><a href="/wiki/Kategorija:Nosilci_reda_za_izredne_zasluge_Republike_Slovenije" title="Kategorija:Nosilci reda za izredne zasluge Republike Slovenije">Nosilci reda za izredne zasluge Republike Slovenije</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Skrite kategorije: <ul><li><a href="/wiki/Kategorija:%C4%8Clanki,_ki_vsebujejo_latinsko_besedilo" title="Kategorija:Članki, ki vsebujejo latinsko besedilo">Članki, ki vsebujejo latinsko besedilo</a></li><li><a href="/wiki/Kategorija:%C4%8Clanki_za_raz%C5%A1iritev_od_mesec_ni_naveden" title="Kategorija:Članki za razširitev od mesec ni naveden">Članki za razširitev od mesec ni naveden</a></li><li><a href="/wiki/Kategorija:Vsi_%C4%8Dlanki_za_raz%C5%A1iritev" title="Kategorija:Vsi članki za razširitev">Vsi članki za razširitev</a></li><li><a href="/wiki/Kategorija:Povezava_na_kategorijo_Zbirke_je_v_Wikipodatkih" title="Kategorija:Povezava na kategorijo Zbirke je v Wikipodatkih">Povezava na kategorijo Zbirke je v Wikipodatkih</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_ISNI" title="Kategorija:Wikipedijini članki z identifikatorji ISNI">Wikipedijini članki z identifikatorji ISNI</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_VIAF" title="Kategorija:Wikipedijini članki z identifikatorji VIAF">Wikipedijini članki z identifikatorji VIAF</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_CONOR.SI" title="Kategorija:Wikipedijini članki z identifikatorji CONOR.SI">Wikipedijini članki z identifikatorji CONOR.SI</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_GND" title="Kategorija:Wikipedijini članki z identifikatorji GND">Wikipedijini članki z identifikatorji GND</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_ICCU" title="Kategorija:Wikipedijini članki z identifikatorji ICCU">Wikipedijini članki z identifikatorji ICCU</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_J9U" title="Kategorija:Wikipedijini članki z identifikatorji J9U">Wikipedijini članki z identifikatorji J9U</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_LCCN" title="Kategorija:Wikipedijini članki z identifikatorji LCCN">Wikipedijini članki z identifikatorji LCCN</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_NKC" title="Kategorija:Wikipedijini članki z identifikatorji NKC">Wikipedijini članki z identifikatorji NKC</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_FAST" title="Kategorija:Wikipedijini članki z identifikatorji FAST">Wikipedijini članki z identifikatorji FAST</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_SUDOC" title="Kategorija:Wikipedijini članki z identifikatorji SUDOC">Wikipedijini članki z identifikatorji SUDOC</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_Trove" title="Kategorija:Wikipedijini članki z identifikatorji Trove">Wikipedijini članki z identifikatorji Trove</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_WorldCat-VIAF" title="Kategorija:Wikipedijini članki z identifikatorji WorldCat-VIAF">Wikipedijini članki z identifikatorji WorldCat-VIAF</a></li><li><a href="/wiki/Kategorija:Wikipedijini_%C4%8Dlanki_z_identifikatorji_-_ve%C4%8Dkratni" title="Kategorija:Wikipedijini članki z identifikatorji - večkratni">Wikipedijini članki z identifikatorji - večkratni</a></li></ul></div></div>
+</div>
+</main>
+</div>
+<div class="mw-footer-container">
+<footer class="mw-footer" id="footer">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Čas zadnje spremembe strani: 11:20, 29. avgust 2024.</li>
+<li id="footer-info-copyright">Besedilo se sme prosto uporabljati v skladu z dovoljenjem <a class="external text" href="//creativecommons.org/licenses/by-sa/4.0/" rel="nofollow">Creative Commons  Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0</a>; uveljavljajo se lahko dodatni pogoji. Za podrobnosti glej <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Pogoje uporabe</a>.<br/>
+Wikipedia® je tržna znamka neprofitne organizacije <a class="external text" href="https://wikimediafoundation.org" rel="nofollow">Wikimedia Foundation Inc.</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Pravilnik o zasebnosti</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedija:O_Wikipediji">O Wikipediji</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/Wikipedija:Splo%C5%A1na_zavrnitev_odgovornosti">Zavrnitve odgovornosti</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Kodeks ravnanja</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Razvijalci</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/sl.wikipedia.org">Statistika</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">O piškotkih</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//sl.m.wikipedia.org/w/index.php?title=Univerza_v_Ljubljani&amp;mobileaction=toggle_view_mobile">Mobilni prikaz</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="29" loading="lazy" src="/static/images/footer/wikimedia-button.svg" width="84"/></a></li>
+<li id="footer-poweredbyico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/w/resources/assets/poweredby_mediawiki.svg" width="88"/></a></li>
+</ul>
+</footer>
+</div>
+</div>
+</div>
+<div class="vector-settings" id="p-dock-bottom">
+<ul></ul>
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7d588db968-5mq2p","wgBackendResponseTime":163,"wgPageParseReport":{"limitreport":{"cputime":"0.696","walltime":"0.946","ppvisitednodes":{"value":3048,"limit":1000000},"postexpandincludesize":{"value":111632,"limit":2097152},"templateargumentsize":{"value":9128,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":46023,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  826.555      1 -total"," 34.76%  287.320      1 Predloga:Infopolje_Univerza"," 33.93%  280.477      1 Predloga:Infopolje"," 26.66%  220.375      1 Predloga:Opombe"," 23.76%  196.355      2 Predloga:Jezik-la"," 12.90%  106.636      7 Predloga:Navedi_splet"," 12.50%  103.325      1 Predloga:Kategorija_v_Zbirki"," 12.23%  101.123      1 Predloga:Sister_project"," 11.86%   98.026      1 Predloga:Side_box","  9.26%   76.520      1 Predloga:Razširi_razdelek"]},"scribunto":{"limitreport-timeusage":{"value":"0.435","limit":"10.000"},"limitreport-memusage":{"value":23183444,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-565f7d7996-zdkgx","timestamp":"20241031090620","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Univerza v Ljubljani","url":"https:\/\/sl.wikipedia.org\/wiki\/Univerza_v_Ljubljani","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1377","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1377","author":{"@type":"Organization","name":"Sodelavci projektov Wikimedie"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-24T07:46:08Z","dateModified":"2024-08-29T10:20:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/sl\/1\/15\/LogotipUL_L.gif","headline":"javna univerza v Ljubljani (Slovenija)"}</script>
+</body>
+</html>

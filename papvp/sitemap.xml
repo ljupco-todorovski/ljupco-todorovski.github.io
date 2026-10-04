@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/uvod-izpeljani-seznami</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/uvod-funkcije-visjega-reda</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pt-uvod</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pt-zaporedja</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pt-podatkovni-okviri</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pt-naloge</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/urejanje-podatkov</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/uvoz-urejanje-sql</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/uvoz-urejanje-ri</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/osnovna-analiza</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/vizualizacija</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/prostorska-vizualizacija</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/razvrscanje-v-skupine</loc>
+  </url>
+</urlset>
