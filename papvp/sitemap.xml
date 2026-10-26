@@ -29,10 +29,13 @@
     <loc>http://localhost:3000/urejanje-podatkov</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/uvoz-urejanje-sql</loc>
+    <loc>http://localhost:3000/urejanje-uvoz-sql</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/uvoz-urejanje-ri</loc>
+    <loc>http://localhost:3000/urejanje-uvoz-ri</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/urejanje-naloge</loc>
   </url>
   <url>
     <loc>http://localhost:3000/osnovna-analiza</loc>
