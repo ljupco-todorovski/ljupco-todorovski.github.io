@@ -1,52 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://pre.render/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>http://pre.render</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/uvod-izpeljani-seznami</loc>
+    <loc>http://pre.render/uvod-izpeljani-seznami</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/uvod-funkcije-visjega-reda</loc>
+    <loc>http://pre.render/uvod-funkcije-visjega-reda</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/uvod-naloge</loc>
+    <loc>http://pre.render/uvod-naloge</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pt-uvod</loc>
+    <loc>http://pre.render/pt-uvod</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pt-zaporedja</loc>
+    <loc>http://pre.render/pt-zaporedja</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pt-podatkovni-okviri</loc>
+    <loc>http://pre.render/pt-podatkovni-okviri</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pt-naloge</loc>
+    <loc>http://pre.render/pt-naloge</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/urejanje-podatkov</loc>
+    <loc>http://pre.render/urejanje-podatkov</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/urejanje-uvoz-sql</loc>
+    <loc>http://pre.render/urejanje-uvoz-sql</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/urejanje-uvoz-ri</loc>
+    <loc>http://pre.render/urejanje-uvoz-ri</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/urejanje-naloge</loc>
+    <loc>http://pre.render/urejanje-naloge</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/osnovna-analiza</loc>
+    <loc>http://pre.render/analiza-osnovna</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/vizualizacija</loc>
+    <loc>http://pre.render/analiza-diagrami</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/prostorska-vizualizacija</loc>
+    <loc>http://pre.render/analiza-prostorski-diagrami</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/razvrscanje-v-skupine</loc>
+    <loc>http://pre.render/analiza-razvrscanje-v-skupine</loc>
+  </url>
+  <url>
+    <loc>http://pre.render/analiza-naloge</loc>
   </url>
 </urlset>
